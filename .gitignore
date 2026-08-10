@@ -1,0 +1,45 @@
+# 1. Python Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 2. Virtual Environments
+.venv_server_vse
+.venv/
+venv/
+ENV/
+env/
+
+# 3. Environment variables & Secrets (CRITICAL)
+.env
+.env.[a-zA-Z]*
+!.env.example
+.flaskenv
+
+# 4. Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# 5. Local Databases
+*.db
+*.sqlite3
+
+# 6. IDE / Editor configs
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# 7. OS generated files
+.DS_Store
+Thumbs.db
+
+# 8. Log files
+*.log
