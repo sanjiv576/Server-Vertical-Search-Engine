@@ -1,1 +1,1531 @@
-[]
+[
+    {
+        "name": "Sally Abbott",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/sally-abbott/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/56406205/Photo.jpeg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Assistant Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2016",
+            "end": "2025"
+        }
+    },
+    {
+        "name": "Abidemi Funmi Adegaye",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/abidemi-funmi-adegaye/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Masters Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Nazia Afreen",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/nazia-afreen/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Khamis Al-alawy",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/khamis-al-alawy/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2007",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Albert Amagyei",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/albert-amagyei/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/109003701/download.png?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2025",
+            "end": "2025"
+        }
+    },
+    {
+        "name": "Sobia Ambreen",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/sobia-ambreen/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2024",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Prince Amoh",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/prince-amoh/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2026",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Fatimah Oluwayemisi Amusa-Yusuf",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/fatimah-oluwayemisi-amusa-yusuf/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Leisa Katherine Anderton",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/leisa-katherine-anderton/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Sara Arouch",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/sara-arouch/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Lauren Bell",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/lauren-bell-2/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/102833108/Profile_pic.png?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2021",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Ellen Bennett",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/ellen-bennett/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/41493694/for_ID_20210225_123735_smaller.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2025",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Irine Anna Benny",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/irine-anna-benny/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Masters Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Satveer Kaur Bhella",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/satveer-kaur-bhella/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/51310620/1618511169223.jpeg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2024",
+            "end": "2024"
+        }
+    },
+    {
+        "name": "Elena Bini",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/elena-bini/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Sharnay Botha",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/sharnay-botha/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Emma Claire Brangwin",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/emma-claire-brangwin/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/80073938/20240111_093403.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2024",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Celine Brookes-Smith",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/celine-brookes-smith/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/40584794/WhatsApp_Image_2021_02_02_at_16.07.53.jpeg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2021",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Lucy Cairns",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/lucy-cairns-2/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/109671173/LC.jpg?w=50&f=jpg",
+        "organizations": [
+            "SCCPT Clinical Psychology - Assistant Professor (Teaching)",
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Teaching, Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Jack Steven Carr",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/jack-steven-carr/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2025",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Grace Carter",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/grace-carter/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/78141421/COV-IHW-5340.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Assistant Professor Research"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2015",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Nakul Chandan",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/nakul-chandan/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2024",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Thomasina Amy Charlish",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/thomasina-amy-charlish/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Rachael Cleveland-Doxford",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/rachael-cleveland-doxford/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "SCCPT Clinical Psychology - Lecturer",
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Teaching, Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Stuart Cocksedge",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/stuart-cocksedge/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Senior Technician"
+        ],
+        "person_type": "Person: Professional Services",
+        "active_years": {
+            "start": "2025",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Professor for Nursing Practice Liz Deutsch",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/liz-lees-deutsch/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/57870226/PC121508.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2002",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Alex Dorgan",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/alex-dorgan/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/104384752/Alex_Dorgan_copy.jpeg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - KTP Associate"
+        ],
+        "person_type": "Person: Professional Services",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Christine Duffy",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/christine-duffy/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2026",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Michael Duncan",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/michael-duncan/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/70312/photo.jpeg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2004",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Gabrielle Edwards-Clark",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/gabrielle-edwards-clark/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Elizabeth Jane Ewing",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/elizabeth-jane-ewing/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Masters Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Adeniyi Fagbamigbe",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/adeniyi-fagbamigbe/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Associate Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2022",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Muhammad Sharjeel Farzad",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/muhammad-sharjeel-farzad/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Jihane Fatr",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/jihane-fatr/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Elizabeth Gerdes",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/elizabeth-gerdes/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Masters Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Hesam Ghiasvand",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/hesam-ghiasvand/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/78660161/image.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Assistant Professor Research"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2024",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Adel Ghorbani",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/adel-ghorbani/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Marc Gilbey",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/marc-gilbey-2/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "(PQSE) Quality and Student Experience - Assistant Professor (Teaching)",
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Teaching, Doctorate Student",
+        "active_years": {
+            "start": "2024",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Jennifer Godber",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/jennifer-godber/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/102180328/Jennifer_Godber.png?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2018",
+            "end": "2025"
+        }
+    },
+    {
+        "name": "Lynsey Guy",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/lynsey-guy/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Bethany Alice Hall",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/bethany-alice-hall/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2025",
+            "end": "2025"
+        }
+    },
+    {
+        "name": "Chloe Elizabeth Harvey-Ward",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/chloe-elizabeth-harvey-ward/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Masters Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Sadia Hassan",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/sadia-hassan/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Samantha Heslop",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/samantha-heslop/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Anna Higo",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/anna-higo/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/57089308/30491660_8479045_Anna_Higo_is_a_physiotherapist_based_in_Leeds_a_19_1594134300607_2.JPEG?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2023",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Nikki Holliday",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/nikki-holliday/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/64610105/S7WqrGBF_400x400.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Design Manager"
+        ],
+        "person_type": "Person: Professional Services",
+        "active_years": {
+            "start": "2012",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Md. Johirul Islam",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/md-johirul-islam/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Prerita Joshi Pandeya",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/prerita-joshi-pandeya/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Shujana Keraudren",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/shujana-keraudren/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Soyoung Kim",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/soyoung-kim/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2026",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Alexandra Kirby",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/alexandra-kirby/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/54092582/AK_Cropped.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2012",
+            "end": "2023"
+        }
+    },
+    {
+        "name": "Puja Lama",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/puja-lama/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Milja Leiviska",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/milja-leiviska/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2024",
+            "end": "2025"
+        }
+    },
+    {
+        "name": "Agnieszka Lewko",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/agnieszka-lewko/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/51169318/Agnieszka.png?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Assistant Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2007",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Eleanor Lutman-White",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/eleanor-lutman-white/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/40492528/ELW_website_photo_small_resized.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Research Fellow"
+        ],
+        "person_type": "Person: Research",
+        "active_years": {
+            "start": "2008",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Professor Deborah Lycett, PhD",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/deborah-lycett/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/26071731/8DDE34D7_2F05_4643_98DB_59A926A0BDC9.jpeg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Associate Pro-Vice-Chancellor (Research and Enterprise), Affiliate"
+        ],
+        "person_type": "Person: Other, Teaching and Research",
+        "active_years": {
+            "start": "2007",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Angel Magar",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/angel-magar-2/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Non Payroll"
+        ],
+        "person_type": "Person: Other",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Shriya Marahatta",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/shriya-marahatta/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2026",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Ksenija Maravic Da Silva",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/ksenija-maravic-da-silva/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/102533309/KDS_2022.JPG?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Assistant Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2004",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Jinu Mathew",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/jinu-mathew/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2024",
+            "end": "2024"
+        }
+    },
+    {
+        "name": "David McWilliams",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/david-mcwilliams/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/54131000/DMc.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2009",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Amy Louise Morton",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/amy-louise-morton/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2024",
+            "end": "2024"
+        }
+    },
+    {
+        "name": "Eem Munawaroh",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/eem-munawaroh/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Deepa Muthu Krishnan",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/deepa-muthu-krishnan/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "AHP Dietetics - Assistant Professor (Teaching)",
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Teaching, Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Sana Nasir",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/sana-nasir/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Gamze Nedzhipoglu",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/gamze-nedzhipoglu/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Sama Nemati",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/sama-nemati/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Lorna O'Doherty",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/lorna-odoherty/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/71577594/Picture_LODoherty_1_.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2007",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Ogechi Ohadomere",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/ogechi-ohadomere-2/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "SCCPT Leadership and Management - Assistant Professor (Teaching)",
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Teaching, Doctorate Student",
+        "active_years": {
+            "start": "2021",
+            "end": "2023"
+        }
+    },
+    {
+        "name": "Niamh O'Loughlin",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/niamh-oloughlin/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2025",
+            "end": "2025"
+        }
+    },
+    {
+        "name": "Samuel Ato Gyasi Otabir",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/samuel-ato-gyasi-otabir/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Shan Ouyang",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/shan-ouyang/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Timilehin Oyefeso",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/timilehin-oyefeso/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "AHP Occupational Therapy - Lecturer (Teaching)",
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Teaching, Masters Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Szabolcs Tibor Pallagi",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/szabolcs-tibor-pallagi/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Masters Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "William Pattison",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/william-pattison/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2024",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Gemma Pearce",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/gemma-pearce/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/25159156/DSC_0084.JPG?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Associate Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2008",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Sally Pezaro",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/sally-pezaro/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/4334125/Sally_Pezaro_2016_Profile.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Assistant Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2015",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Ruth D. Postlethwaite",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/ruth-d-postlethwaite/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2021",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Bethany Louise Probert",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/bethany-louise-probert/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2025",
+            "end": "2025"
+        }
+    },
+    {
+        "name": "Hafsah Qaiser",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/hafsah-qaiser/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2020",
+            "end": "2023"
+        }
+    },
+    {
+        "name": "Uri Arta Ramadhani",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/uri-arta-ramadhani/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2025",
+            "end": "2025"
+        }
+    },
+    {
+        "name": "Sima Rezai",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/sima-rezai/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Masters Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Brent Robbins",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/brent-robbins/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2026",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Jason Roscoe",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/jason-roscoe/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Dana Sammut",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/dana-sammut/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/117462113/ID_pic.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2023",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Juliana Samson",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/juliana-samson-samson/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/114929847/Profile_2_.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2023",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Lissi Scholer",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/lissi-scholer/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Behzad Ali Shah",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/behzad-ali-shah/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2023",
+            "end": "2023"
+        }
+    },
+    {
+        "name": "Syed Aziz Shah",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/syed-aziz-shah/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/29985663/download.png?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Associate Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2016",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Hira Shahid",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/hira-shahid/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2023",
+            "end": "2024"
+        }
+    },
+    {
+        "name": "Suman Sharma Paudel",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/suman-sharma-paudel/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Riann Sherratt",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/riann-sherratt-3/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Monica Shrestha",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/monica-shrestha/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Lucy Silvester",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/lucy-silvester/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2023",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Yang Sun",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/yang-sun/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Ala Szczepura",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/szczepura-szczepura/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/120257222/Ala_Head_Shot-2025.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Professor Emerita in Health Technology Assessment"
+        ],
+        "person_type": "Person: Other",
+        "active_years": {
+            "start": "1971                 …",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Michael Taggart",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/michael-taggart/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Robyn Tapp",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/robyn-tapp/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/30469735/IMG_6042.JPG?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2003",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Maria Tariq",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/maria-tariq-2/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/106354512/IMG_20220413_220144_694.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Research Fellow"
+        ],
+        "person_type": "Person: Research",
+        "active_years": {
+            "start": "2021",
+            "end": "2024"
+        }
+    },
+    {
+        "name": "Mehmoona Tariq",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/mehmoona-tariq/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Chalani Lasanthika Thalaowita Lekamlage",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/chalani-lasanthika-thalaowita-lekamlage/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/110653077/Email_profile.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2025",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Winnie Tong",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/winnie-tong/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Research Fellow"
+        ],
+        "person_type": "Person: Research",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Andy Turner",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/andy-turner/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/21551356/andy_photo.png?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "1998",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Lara Vella",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/lara-vella/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2025",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Rinkee Verma",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/rinkee-verma/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Petra Wark",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/petra-wark/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/78619036/COV-IHW-5365_forweb.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2002",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Sarah West",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/sarah-west-2/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/122265572/profile.jpeg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Research Fellow"
+        ],
+        "person_type": "Person: Research",
+        "active_years": {
+            "start": "2022",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Maxine Whelan",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/maxine-whelan/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Assistant Professor Research"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2017",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Andy Winter",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/andy-winter/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/51168525/Work_Profile_Pic.jpg?w=50&f=jpg",
+        "organizations": [
+            "NM Clinical Skills and Simulation - Assistant Professor (Teaching)",
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Teaching, Doctorate Student",
+        "active_years": {
+            "start": "2024",
+            "end": "2024"
+        }
+    },
+    {
+        "name": "Tsz Sing Wong",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/tsz-sing-wong/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Aiesha Wright",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/aiesha-wright/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "SCCPT Leadership and Management - Assistant Professor (Teaching)",
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Teaching, Doctorate Student",
+        "active_years": {
+            "start": "2026",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Hayley Wright",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/hayley-wright/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/99328625/HayleyWright_headshot2023-med-res_JPEG.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Associate Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2008",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Yuhang Xu",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/yuhang-xu/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/31118075/YXu_1.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Associate Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2016",
+            "end": "2025"
+        }
+    },
+    {
+        "name": "Lingya Yu",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/lingya-yu/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "name": "Bushra Zaidi",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/bushra-zaidi-2/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2021",
+            "end": "2025"
+        }
+    },
+    {
+        "name": "Xiaofei Zhang",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/xiaofei-zhang/",
+        "image_url": "https://pureportal.coventry.ac.uk/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation"
+        ],
+        "person_type": "Person: Doctorate Student",
+        "active_years": {
+            "start": "2026",
+            "end": "2026"
+        }
+    },
+    {
+        "name": "Dingchang Zheng",
+        "profile_link": "https://pureportal.coventry.ac.uk/en/persons/dingchang-zheng-2/",
+        "image_url": "https://pureportal.coventry.ac.uk/files-asset/31457262/Dingchang_small_size.jpg?w=50&f=jpg",
+        "organizations": [
+            "Centre for Healthcare and Community Transformation - Professor"
+        ],
+        "person_type": "Person: Teaching and Research",
+        "active_years": {
+            "start": "2003",
+            "end": "2026"
+        }
+    }
+]
