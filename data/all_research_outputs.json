@@ -117,7 +117,7 @@
             },
             {
                 "name": "Walker-Clarke, A.",
-                "link": "https://pureportal.coventry.ac.uk/en/persons/aimee-walker-clarke/"
+                "link": null
             }
         ],
         "publish_date": "21 Apr 2026",
@@ -326,8 +326,12 @@
                 "link": "https://pureportal.coventry.ac.uk/en/persons/william-pattison/"
             },
             {
-                "name": "Davies, K. F., Smith, R., Gjesdal, S., Tallis, J.",
+                "name": "Davies, K. F., Smith, R., Gjesdal, S.",
                 "link": null
+            },
+            {
+                "name": "Tallis, J.",
+                "link": "https://pureportal.coventry.ac.uk/en/persons/jason-tallis/"
             },
             {
                 "name": "Kim, S.",
@@ -471,7 +475,7 @@
             },
             {
                 "name": "Presley, V.",
-                "link": null
+                "link": "https://pureportal.coventry.ac.uk/en/persons/vickie-presley/"
             },
             {
                 "name": "Maravic Da Silva, K.",
@@ -1034,7 +1038,11 @@
         "title_link": "https://pureportal.coventry.ac.uk/en/publications/perceptions-attitudes-and-experiences-of-glp-1-receptor-agonists-/",
         "authors": [
             {
-                "name": "Tallis, J., Richardson, D.",
+                "name": "Tallis, J.",
+                "link": "https://pureportal.coventry.ac.uk/en/persons/jason-tallis/"
+            },
+            {
+                "name": "Richardson, D.",
                 "link": null
             },
             {
@@ -1566,8 +1574,12 @@
                 "link": "https://pureportal.coventry.ac.uk/en/persons/william-pattison/"
             },
             {
-                "name": "Smith, R., Gjesdal, S., Tallis, J.",
+                "name": "Smith, R., Gjesdal, S.",
                 "link": null
+            },
+            {
+                "name": "Tallis, J.",
+                "link": "https://pureportal.coventry.ac.uk/en/persons/jason-tallis/"
             },
             {
                 "name": "Kim, S.",
