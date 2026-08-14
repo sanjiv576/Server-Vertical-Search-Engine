@@ -5,6 +5,6 @@ from fastapi.responses import JSONResponse
 app = FastAPI()
 
 
-@app.get('/health_status')
-def health_status():
+@app.get('/')
+def root_home():
     return JSONResponse(status_code=200, content={"message": "Server is live..."})
