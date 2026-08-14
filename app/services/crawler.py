@@ -70,10 +70,10 @@ def extract_research_output(base_url, driver):
 
         # waiting for cloudflare on the first page, subsequent pages might load faster
         if page_number == 0:
-            time.sleep(10)
+            time.sleep(20)
         else:
             # waiting shorter for subsequent pages assuming cloudflare is already passed
-            time.sleep(5)
+            time.sleep(10)
 
         # extracting all HTML content of the page
         html_content = driver.page_source
@@ -211,10 +211,10 @@ def extract_profiles(base_url, driver):
 
         # waiting for cloudflare on the first page, subsequent pages might load faster
         if page_number == 0:
-            time.sleep(10)
+            time.sleep(20)
         else:
             # waiting a shorter time for subsequent pages assuming cloudflare is already passed
-            time.sleep(5)
+            time.sleep(10)
 
         html_content = driver.page_source
         soup = BeautifulSoup(html_content, "html.parser")
@@ -352,7 +352,7 @@ def run_background_crawler():
         driver.get(settings.SEED_URL)
 
         # waiting for Cloudflare and dynamic JS to load
-        time.sleep(10)
+        time.sleep(20)
 
         publications_url = f"{settings.SEED_URL}publications/"
         profiles_url = f"{settings.SEED_URL}persons/"

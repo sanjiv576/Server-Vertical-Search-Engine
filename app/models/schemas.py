@@ -95,7 +95,10 @@ class UserInputValidator(BaseModel):
     }
     """
     query: Annotated[str, Field(min_length=1, description="User query...", examples=[
-        "A Conceptual Discussion on Decolonising Photovoice and Reflections on Its Practical Application",
+        " Whelan, M.", # author name example 
+        "2025", # publish date example
+        "In: Pilot and Feasibility Studies", # journal name example
+        "Cross-Sectional", # some title part example
         "A Cross-Sectional Study of Postgraduate Students' Mental Well-Being: Exploring the Relationship Between Mental Well-Being, Perceived Stress, Academic Self-Efficacy, and Self-Efficacy for Self-Regulated Learning",
-        "A cross-cultural study on the career counseling service ecosystem: implications for higher education marketing"
+        "A cross-cultural study on the career counseling service ecosystem: implications for higher education marketing" # exact title example
     ])]
