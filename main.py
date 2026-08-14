@@ -3,6 +3,7 @@ import time
 from contextlib import asynccontextmanager
 from datetime import datetime, timezone
 import schedule
+from fastapi.middleware.cors import CORSMiddleware
 
 from fastapi import FastAPI
 
@@ -54,9 +55,18 @@ async def lifespan(app: FastAPI):
 
 # initializing the fastapi application with the lifespan manager
 app = FastAPI(
-    title="Vertical Search Engine API",
-    description="FastAPI backend for crawling and searching Coventry University research profiles and publications.",
+    title="Coventry Publications - Vertical Search Engine API",
+    description="FastAPI backend for crawling and searching Coventry University research profiles and publications. Developed by Sanjiv Shrestha",
     lifespan=lifespan
+)
+
+# adding middleware to use this api in external websites
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 # registering the API routers with their respective prefixes
