@@ -51,5 +51,7 @@ def search_documents(payload: UserInputValidator):
             number_of_pages=full_doc.get("number_of_pages")
         ))
 
+    print(f"Length of response data: {len(formatted_results)}")
+
     # returning the fully constructed list of ranked responses
     return formatted_results
