@@ -6,7 +6,8 @@ from .database import (
     raw_pages_profiles,
     doc_vectors,
     term_index,
-    crawl_log
+    crawl_log,
+    clustered_docs
 )
 
 __all__ = [
@@ -17,5 +18,6 @@ __all__ = [
     "raw_pages_profiles",
     "doc_vectors",
     "term_index",
-    "crawl_log"
+    "crawl_log",
+    "clustered_docs"
 ]
