@@ -5,6 +5,11 @@ from fastapi.responses import JSONResponse
 from app.services.crawler import run_background_crawler
 from app.services.nlp_indexer import do_indexing_and_saving
 
+# importing
+from app.services.cluster_engine import (
+    setup_initial_clustered_db
+)
+
 router = APIRouter()
 
 # wrapping the crawler and indexer into a single executable task
@@ -22,6 +27,7 @@ def home():
 
 @router.get('/health_status')
 def health_status():
+    setup_initial_clustered_db()
     # returning a simple 200 ok response to confirm the server is running
     return JSONResponse(status_code=200, content={"message": "Server is live..."})
 
