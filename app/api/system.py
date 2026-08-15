@@ -15,6 +15,11 @@ def crawl_and_index_task():
     do_indexing_and_saving()
 
 
+@router.get('/')
+def home():
+    return JSONResponse(status_code=200, content={"message": "Just Chill. Everything is going good..."})
+
+
 @router.get('/health_status')
 def health_status():
     # returning a simple 200 ok response to confirm the server is running
