@@ -1,0 +1,2702 @@
+[
+    {
+        "document": "Legal scholars debated implications of originalist versus living constitutional interpretations.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Social media platforms updated policies regarding political advertisement verification.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Crowdfunding continues to be a viable alternative to traditional bank loans for entrepreneurs.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Consumer prices rose faster than expected, driven by higher energy costs.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Automated ballot counting systems underwent rigorous pre-election audit checks.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Drive-in theaters reported a surprise uptick in attendance during the summer months.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Parliamentary members voted to amend public health safety standards.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Broadcast regulations mandated equal airtime provisions for opposing candidates.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Fantasy sports platforms integrated interactive betting features to increase viewer engagement.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Spoilers leak rapidly across social networks, changing how studios market highly anticipated finales.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Foreign direct investment in Southeast Asia reached record levels this year.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "International climate accords mandated reduction goals for greenhouse gas emissions.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Office vacancy rates hit a record high in major downtown business districts.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Corporate tax rates were lowered to incentivize domestic manufacturing operations.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Negotiators reached a compromise on disputed maritime territorial borders.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Automobile sales declined as financing costs pushed monthly payments out of reach.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Broadway ticket sales are recovering as tourists return to live entertainment districts.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Long-term unemployment benefits are set to expire for thousands of workers.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Many older office buildings are being converted into luxury residential apartments.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Services inflation remains elevated due to persistent labor shortages.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Commercial landlords are offering concessions to retain current corporate tenants.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Shopping malls are struggling to secure anchor tenants as department stores close.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Centrist coalitions emerged to offer alternatives to populist political platforms.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Index funds saw steady inflows from retirement accounts this quarter.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Blockchain technology is being integrated into traditional financial clearing systems.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Think tanks published policy papers outlining conservative and progressive proposals.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Neutral states reiterated non-alignment stances during global geopolitical shifts.",
+        "true_category": "Politics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The animated musical became a cultural phenomenon, dominating music charts and merchandise sales.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Economic diversification efforts aim to reduce reliance on fossil fuel exports.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Tech giants are acquiring legacy studios to secure exclusive intellectual property libraries.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The political memoir broke first-day sales records despite receiving mixed critical reviews.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Regional commissioners managed water allocation strategies during persistent droughts.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "District representatives advocated for school district infrastructure improvements.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Decentralized finance protocols suffered a major exploit, losing millions in digital assets.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Data center real estate acquisitions surged to support cloud computing infrastructure.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Anti-corruption watchdogs demanded greater transparency in government contracting.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Sovereign airspace claims provoked diplomatic protests from neighboring nations.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Offshore wind leasing permits faced scrutiny from fishing industry representatives.",
+        "true_category": "Politics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Co-working spaces are seeing renewed interest from hybrid startup teams.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Investigative journalists uncovered undisclosed lobbying activities in the capitol.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Press freedom watchdogs condemned restrictions on foreign news correspondent access.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Nostalgia continues to drive box office performance for classic franchise reboots.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Industrial warehouse space remains in high demand due to e-commerce growth.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Red carpet fashion choices instantly became trending topics across social media networks.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Geopolitical analysts monitored political shifts across Eastern European parliaments.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Legislative committees questioned department directors concerning administrative oversights.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The annual awards ceremony suffered technical difficulties during the live broadcast segments.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Virtual reality headsets saw increased adoption following the release of an immersive blockbuster.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Multi-nation task forces addressed maritime piracy along high-traffic trade routes.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Commercial mortgage defaults are rising, posing risks to regional lenders.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Food price inflation has disproportionately affected low-income communities.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Cloud gaming services eliminate hardware barriers for players across the globe.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Ambassadors met at the summit to discuss bilateral security agreements.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Economic stagnation is prompting calls for aggressive fiscal stimulus packages.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Public audit reports revealed misallocation of federal infrastructure grants.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Corporate bond issuance slowed down due to rising borrowing costs.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Resource scarcity heightened tensions between nations sharing river basin systems.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Government debt auctions drew strong demand from foreign central banks.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Gold futures climbed as investors sought a hedge against currency depreciation.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Media conglomerates are separating declining linear networks from fast-growing digital businesses.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Investors cheered as the tech-heavy index reached an all-time high.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Institutional investors shifted capital from equities into short-term government paper.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Visual effects supervisors highlighted the importance of lighting in creating photorealistic digital characters.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The interaction between creators and audiences has become a fundamental pillar of modern entertainment.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The service sector added fewer jobs than anticipated last month.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Cabinet ministers resigned following public exposure of financial improprieties.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Public broadcasting networks received state appropriations for educational programming.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Military personnel participated in joint readiness exercises with allied forces.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Audience fragmentation is forcing marketers to target niche internet communities rather than broad demographics.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "New tariffs on imported steel provoked retaliation from key trading partners.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Human rights advocacy groups campaigned against discriminatory housing practices.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Central bankers are closely monitoring consumer spending indicators.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The virtual reality documentary places viewers directly inside the historical events being depicted.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Deepfake technology regulations are forcing studios to alter digital de-aging processes.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Regulatory agencies monitored media ownership concentration across broadcast markets.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Executive compensation packages faced intense scrutiny from activist shareholders.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The beloved sitcom is returning for a holiday special with the original cast.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Customs delays at major ports are causing inventory shortages for retailers.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Demonstrations called for comprehensive reform of the criminal justice system.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Cross-play functionality is now a standard expectation for multiplayer video games.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Infrastructure spending is a key pillar of the government's economic development plan.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Studio pipelines are transitioning to real-time rendering engines to speed up iteration cycles.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Quantitative tightening measures have reduced the balance sheet by billions.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Bonuses in the investment banking division were slashed due to poor revenue.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Actors are adding contract clauses to protect their digital likenesses from unauthorized replication.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Civil service rules were modified to incentivize retention of technical talent.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Public health agencies issued updated recommendations for preventative care access.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The peace treaty was signed after months of neutral mediation.",
+        "true_category": "Politics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Underemployment is a growing issue among recent college graduates.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The electronic dance music producer performed a live set inside a popular video game.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Foreign exchange interventions were deployed to stabilize the falling currency.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Mortgage-backed securities stabilized after the latest housing data release.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Lumber prices dropped, offering some relief to home building companies.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The fiscal deficit expanded as government spending outpaced annual tax revenue.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "A bidding war for the publishing rights resulted in a record advance for the author.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Core inflation remains stubborn despite recent monetary interventions.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Manufacturing output contracted, signaling a slowdown in industrial activity.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Political action committees spent millions on broadcast television advertisements.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Judicial review proceedings examined whether statutory language exceeded mandate.",
+        "true_category": "Politics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Disability rights coalitions secured mandates for accessible municipal buildings.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Spatial computing headsets are redefining how audiences interact with 3D cinematic environments.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Bilateral trade negotiations stalled over intellectual property protection clauses.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Control over strategic shipping channels remained a vital security priority.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Viewership metrics indicate that audiences prefer authentic, relatable content over highly polished productions.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Streaming algorithms are prioritizing personalized recommendations to boost user retention.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Graphic novel sales skyrocketed, driven by adult readers seeking complex visual storytelling.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Content creators are demanding full ownership of their intellectual property from hosting platforms.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Wheat and corn prices spiked following severe droughts in key agricultural regions.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Transportation safety boards investigated structural integrity standards across bridges.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Hedge funds adjusted their portfolios to reduce exposure to emerging markets.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The gender wage gap narrowed slightly in corporate management roles.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Whistleblowers provided documentation detailing misuse of public agency funds.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Polled data suggests a close race between incumbent and challenger.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Territorial waters definitions led to disputes over offshore oil exploration rights.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Visual effects artists voted to unionize following years of compressed deadlines and overtime.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Bondholders demanded higher premiums to compensate for duration risk.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Absentee ballot drop-off locations were designated in public municipal buildings.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Luxury spending remains resilient despite broader macroeconomic pressures.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Lawmakers debated a bill regarding digital privacy rights in committee.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Blue-chip equities stumbled after weak forward guidance from leading manufacturers.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The yield on the ten-year note dropped below three percent this morning.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The true-crime docuseries sparked widespread online discussions and amateur investigations.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Existing home sales plummeted as high mortgage rates deterred potential buyers.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Media companies are rationalizing their network portfolios to reduce consumer friction.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "A foreign language romance film swept the international categories at multiple ceremonies.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "A filibuster delayed the vote on federal judicial appointments.",
+        "true_category": "Politics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Residential construction permits declined due to rising material costs.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Cryptocurrency markets stabilized after a year of regulatory crackdowns and bankruptcies.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The fantasy series utilized massive LED volumes to replace traditional green screen backgrounds.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The coming-of-age drama is leading the early prediction shortlists for the upcoming Oscars.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Regulators announced new stress test requirements for systemic financial institutions.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Toxic fandom behavior has prompted actors to step away from public social media profiles.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Procedural generation tools are allowing artists to create detailed digital environments in minutes.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The discount window usage increased as regional banks sought short-term liquidity.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Earnings per share exceeded analyst expectations across the financial sector.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Magistrates issued search warrants following presentation of probable cause evidence.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Coffee commodity prices dropped due to a bumper crop yield in South America.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Fans celebrated the legendary director receiving a trophy for his cinematic contributions.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Public opinion polls reflected shifting voter sentiment regarding economic priorities.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Fintech companies are capturing market share from legacy retail banking institutions.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Tech valuations corrected as investors prioritized profitability over rapid user growth.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "State legislatures debated renewable energy portfolio standards for utility providers.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The romantic comedy genre is experiencing a theatrical resurgence this summer.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Municipal property taxes were adjusted to fund local emergency services.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The international trade tribunal investigated claims of illegal dumping.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Audiences praised the historical epic for its stunning cinematography and practical stunts.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Viewership for ad-supported television channels is growing among cost-conscious households.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Appellate judges reviewed lower court decisions concerning executive privilege limits.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "A progressive wealth tax has been proposed to fund public education and healthcare.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The supreme court rendered a decision upholding constitutional separation of powers.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Election administration officials trained precinct workers on accessibility standards.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The rhythm and blues singer swept the annual music awards, taking home five trophies.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Independent bookstores are experiencing a resurgence as communities push back against retail monopolies.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Lithium extraction investments multiplied to feed electric vehicle battery production.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The lifestyle blogger faced backlash for promoting an unverified wellness product online.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Value-added taxes were temporarily suspended to provide relief to everyday consumers.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Submarine surveillance operations monitored activity in international waterways.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Independent filmmakers are finding global audiences through specialized digital festivals.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Electoral boards updated voting machine software to ensure cyber resilience.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Livestreamers generate revenue through real-time interactive tipping and subscriber badges.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The savings rate dropped as consumers dipped into reserves to cover expenses.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "A popular video essayist won a journalism prize for exploring internet pop culture.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Stand-up comedians are releasing their specials directly to fans via personal websites.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Real estate investment trusts adjusted their dividend payouts amid falling revenues.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The high court agreed to hear oral arguments on federal preemption of state laws.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Transparency international ranked government integrity metrics following reform efforts.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The education department launched initiatives supporting stem curriculum in public schools.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The tech sector relies heavily on stock options to attract top engineering talent.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The European fashion house shocked the industry by appointing a streetwear designer.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The mixed martial arts promotion expanded its pay-per-view offerings into European markets.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Grassroots coalitions championed equal employment opportunities across public sectors.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The state department published guidelines regarding travel risks in conflict zones.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The international soccer tournament broke global broadcasting records for concurrent live viewers.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Diplomatic ties were severed following an expulsion of embassy staff.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Government communications offices issued press releases regarding policy updates.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Border disputes between neighboring states triggered international diplomatic concern.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Retaliatory tariffs affected agricultural exports to international partners.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Hyperinflation has rendered the national currency practically worthless overseas.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The global economic forum highlighted the widening wealth gap between northern and southern hemispheres.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Forest management budgets increased to mitigate wildfire risks on public lands.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Social networks are rolling out integrated e-commerce features to retain user attention.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Fast fashion brands are facing consumer boycotts over environmental footprint and labor practices.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Ideological divisions within the party complicated legislative consensus building.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The job market remains incredibly tight, empowering workers to switch careers.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Venture capital funding for artificial intelligence startups outpaced all other sectors.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Voice actors are protesting against synthetic cloning of their vocal performances.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Campaign finance reforms were proposed to limit corporate donations.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Share buybacks reached record levels as companies sought to boost stock prices.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The governor signed an executive mandate reforming state civil service laws.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Social security administrators briefed lawmakers on long-term trust fund projections.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Critics praised the psychological horror film for its tense atmosphere and pacing.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The highly anticipated thriller shattered opening weekend ticket sales records.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The highly anticipated sci-fi adaptation drew criticism for deviating from the source material.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Retro gaming preservationists successfully lobbied for legal rights to archive abandoned software.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Treasury yields inverted further, signaling potential economic headwinds.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The young adult dystopian series is being adapted into a premium television show.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Copper demand surged, driven by the global transition to renewable energy grids.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Gross domestic product expanded at a modest rate in the third quarter.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The inflation target of two percent seems difficult to achieve this decade.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The animated feature blended traditional hand-drawn techniques with modern computer graphics beautifully.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Holographic performances of deceased musical legends sparked ethical debates among fans.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Political commentators analyzed voter polarization trends across demographic cohorts.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Local government agencies implemented transparent procurement auditing systems.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Independent creators are competing directly with established studios for audience viewership.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Regional alliances reformed to balance power dynamics in the Pacific basin.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Intelligence agencies issued warnings regarding cyber threats to critical infrastructure.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Digital streaming platforms utilize emotion-based artificial intelligence to serve personalized content.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The viral comedy troupe crowdfunded their feature film through social media followers.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Economic recovery has been uneven, favoring high-income brackets disproportionately.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Celebrity book clubs wield immense influence, turning obscure debuts into instant bestsellers.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The legendary rock band released a surprise album after a ten-year hiatus.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The Shakespearean tragedy was reimagined as a contemporary political thriller to critical acclaim.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Tax loopholes for multinational tech conglomerates are being aggressively closed.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The upcoming initial public offering is expected to raise billions for the startup.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The free trade agreement eliminated duties on agricultural and technological exports.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Defense spending prioritized modernization of naval fleet communication systems.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Property tax assessments increased, straining budgets for middle-class homeowners.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Vintage luxury handbags are outperforming traditional stocks as alternative investment assets.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Buy-now-pay-later services have increased consumer debt burdens among younger shoppers.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The mayor presented an urban development plan targeting affordable housing.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Export restrictions on critical minerals disrupted the semiconductor supply chain.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Capital gains tax adjustments are prompting investors to hold assets longer.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Economic sanctions were imposed on key state-owned enterprises abroad.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The legislative assembly passed the budget proposal following late-night sessions.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The theater district hosted an outdoor festival featuring free performances from popular shows.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Cross-border investments declined due to tightening foreign ownership regulations.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Brands are purchasing digital real estate to host exclusive virtual pop-up shop experiences.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Subsidized housing initiatives are failing to meet the growing population demand.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The federal reserve chairman emphasized the need for price stability.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Deflationary risks are emerging in the manufacturing and industrial sectors.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The government introduced a carbon tax to encourage corporate emission reductions.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Brick-and-mortar stores are investing in omnichannel strategies to stay competitive.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Generative artificial intelligence is enabling adaptive non-player characters in open-world adventures.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The writers guild negotiated boundaries for algorithmic generation in script ideation.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The international esports tournament drew millions of concurrent viewers online.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Luxury real estate transactions slowed as wealthy buyers awaited market corrections.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "A stage actor recovered from a minor stunt injury, allowing the play to resume.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Metaverse platforms are hosting virtual film festivals featuring independent interactive storytelling.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Athletes are bypassing traditional media to communicate directly with fans through podcasts.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Consular services were expanded to assist citizens abroad during crises.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The opposition party attempted to block the tax reform legislation.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Judicial oversight bodies reviewed code of conduct violations by officials.",
+        "true_category": "Politics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Recount procedures were codified to govern close municipal and state elections.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Grocery chains report that shoppers are trading down to generic store brands.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Municipalities are raising property taxes to cover budget shortfalls in civil services.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Port authorities processed cargo under updated maritime trade regulations.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Strategic defense treaties bound participating nations to mutual collective defense.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Pop culture commentators decoded hidden messages within the singer's latest music video.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The celebrity defamation trial became a media spectacle, drawing daily livestream viewers.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Consumer confidence surveys reveal widespread pessimism about future finances.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Disaster management agencies coordinated emergency response efforts after severe storms.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The entertainment sector is pivoting toward hybrid monetization models to sustain growth.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Consumer credit card balances reached an all-time high this past quarter.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Labor relations boards mediated disputes between public sector unions and management.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Media commentary focused on evolving ideological realignment among suburban voters.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Focus group data indicated strong public support for infrastructure investments.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Community organizers established legal defense funds for peaceful political activists.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Energy regulators mandated grid reliability improvements prior to winter peak demand.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Envoys from both nations convened to address escalating border skirmishes.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Sports documentaries are drawing record viewership by showcasing behind-the-scenes athlete narratives.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Independent candidates gained momentum in local municipal elections.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Central bank digital currencies are being tested to modernize cross-border payments.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The medical drama became the longest-running primetime series in television history.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Digital avatars are becoming status symbols within online interactive entertainment communities.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Air force units conducted reconnaissance missions along sovereign airspace frontiers.",
+        "true_category": "Politics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Viewers are intentionally filtering out content they find emotionally draining or overwhelmingly negative.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Cap-and-trade market mechanisms incentivized corporate carbon emission reductions.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Bipartisan sponsors introduced legislation targeting systemic corruption.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The classical ballet company announced a global tour featuring a modernized adaptation.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Interactive storytelling is blurring the line between passive viewing and active participation.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Independent venues are forming coalitions to negotiate better revenue splits with promoters.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Remittances from overseas workers provide a crucial lifeline for the national economy.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Talent agencies launched dedicated divisions to manage digital-first content creators.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Gender-neutral clothing lines are becoming a focal point for modern department stores.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Experimental off-Broadway productions are attracting younger audiences seeking immersive storytelling.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Peer-to-peer lending platforms face tighter oversight from financial conduct authorities.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Holiday retail sales exceeded forecasts, buoyed by aggressive promotional discounting.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The prestigious film academy introduced voting changes to accommodate streaming-exclusive releases.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "State supreme court rulings established protections for voter registration drives.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Voter turnout reached historic levels during the parliamentary election.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Subscription box models are facing higher churn rates as consumers trim budgets.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Water management boards established conservation targets during persistent droughts.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The strategic petroleum reserve was tapped to lower gasoline prices at the pump.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Town hall meetings provided a platform for citizens to debate zoning laws.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Dedicated fans organized a crowdfunding campaign to save the canceled science fiction series.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Microfinance initiatives are lifting rural entrepreneurs out of systemic poverty.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Trade embargos disrupted supply lines for raw industrial commodities.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Public sector workers demanded inflation-adjusted pay increases during negotiations.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Poll monitoring protocols were established to prevent voter intimidation at precincts.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The suburban real estate market is booming as remote work becomes permanent.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Stop-motion animation studios are seeing a revival thanks to lucrative streaming distribution deals.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The transition to a service-based economy has altered traditional growth metrics.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The prestigious literary prize was awarded to a compelling exploration of historical trauma.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Competitive gaming teams are restructuring rosters amid shifting sponsorship revenue models.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The directorial debut received a standing ovation at the premier coastal film festival.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Municipal bonds remained a popular choice for tax-conscious investors.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Wage-price spirals are becoming a primary concern for macroeconomic analysts.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The monetary policy committee voted unanimously to hold rates steady.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Streaming platforms are bundling services together to combat rising subscriber fatigue.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Tax compliance costs have burdened small businesses navigating complex new regulations.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Protesters assembled outside parliament demanding expanded voting accessibility.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Federal courts issued injunctions halting implementation of contested regulations.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "A prominent actor used his acceptance speech to advocate for global climate legislation.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Currency devaluation made the country's exports more competitive globally.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Jobless claims spiked unexpectedly following recent corporate downsizing announcements.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The debut fantasy novel topped bestseller lists after going viral on social networks.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "County supervisors voted to allocate resources for community park renovations.",
+        "true_category": "Politics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Tariff adjustments aimed to protect domestic agricultural producers from competition.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Late-night talk shows are adapting their monologues for short-form video consumption.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Minimum wage legislation was passed to support entry-level workers.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Veterans affairs departments expanded mental health services for former service members.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Predictive algorithms are altering scene pacing based on biometric test audience feedback.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The superhero blockbuster was praised for its seamless integration of practical and digital effects.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The cosmetics brand pulled its foundation line due to a non-inclusive shade range.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Federal housing authorities expanded rental assistance programs for low-income families.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Retail traders flocked to meme stocks, driving unexpected daily trading volumes.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The teenage influencer secured a brand ambassador deal with a luxury jewelry company.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "District judges evaluated class-action suits against government agency policies.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Crude oil prices rallied after production cuts were announced by major exporters.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The lifetime achievement tribute featured surprise performances from famous industry collaborators.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Indigenous leaders negotiated land stewardship agreements with state authorities.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Independent producers are struggling to secure distribution deals in a crowded marketplace.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The premium cable network canceled the fantasy drama after just two seasons.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The trade war has significantly increased costs for domestic manufacturing firms.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Fandoms are creating extensive wikis and encyclopedias to catalog complex fictional lore.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The film studio sold its back catalog to a private equity firm to reduce debt.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Housing inventory remains constrained, keeping property valuations artificially high.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Gig workers continue to advocate for a guaranteed living wage and benefits.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The cost of living crisis is forcing households to cut discretionary spending.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Broadcasting conglomerates are competing fiercely to retain exclusive weekend football television rights.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Congressional leaders negotiated spending caps for defense and domestic programs.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Generative video tools are streamlining post-production workflows for visual effects artists.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Constitutional scholars analyzed landmark precedents regarding freedom of the press.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Interest rate hikes have successfully cooled down the overheated economy.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The special prosecutor subpoenaed records related to campaign expenditure records.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The groundbreaking hip-hop musical won twelve trophies at the annual theater awards.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The professional basketball league secured a lucrative digital streaming rights contract.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The short animated film won global acclaim for tackling complex emotional themes without dialogue.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Live music festivals are incorporating virtual reality experiences for remote attendees.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Civil liberties organizations filed lawsuits challenging warrantless digital surveillance.",
+        "true_category": "Politics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Urbanization is accelerating, requiring massive investments in municipal infrastructure.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "First-time homebuyers are struggling with unprecedented affordability challenges.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Sovereign debt restructuring is necessary for several highly leveraged developing economies.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Back-to-school spending provided a temporary boost to apparel and electronics retailers.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Civic education initiatives aimed to foster informed political participation.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The stock market rally continued despite concerns over geopolitical instability.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The draft ordinance underwent revisions after public feedback hearings.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Voter registration databases were synchronized to prevent duplicate enrollments.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Rental prices in urban centers have skyrocketed, displacing long-term residents.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The opposition candidate launched a campaign focused on economic reform.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Junk bonds faced a sell-off amid rising default risk in the retail sector.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "International distributors secured rights to the award-winning foreign language drama.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Average hourly earnings grew, but failed to outpace the rising cost of goods.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Partisan debates highlighted differing visions for tax policy and social safety nets.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Peacekeeping forces deployed to stabilize conflict regions under United Nations mandate.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Talent agencies are exploring commercial partnerships to diversify revenue streams.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Multiplayer social hubs in the metaverse are replacing traditional chat rooms for teenagers.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Geopolitical rivalries escalated over access to deep-sea mineral reserves.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The mayoral race highlighted contrast between progressive and conservative visions.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The national touring cast broke attendance records at regional theaters in the Midwest.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The animation studio adopted automated in-betweening software to reduce production timelines.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The entertainment industry is navigating complex antitrust regulations during the latest merger wave.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Fan fiction writers are gaining mainstream recognition and securing traditional publishing contracts.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Redistricting commissions redrew congressional boundaries following census data.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Supermodels from previous decades closed the runway show, generating widespread online nostalgia.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Climate adaptation planning funds were allocated for coastal infrastructure defense.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Voter identification requirements were challenged in federal appellate court.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The presidential debate centered on foreign policy and healthcare.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "An ethics panel investigated allegations of conflicts of interest among senators.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The tennis champion announced her retirement via a beautifully produced short film.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Synthetic celebrities and virtual influencers are securing lucrative brand endorsement deals.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Vinyl record sales surpassed digital downloads for the fourth consecutive quarter.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Salaries in the technology sector have plateaued after years of rapid growth.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Box office revenue projections are being adjusted to account for shrinking theatrical windows.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Short-form video creators are signing development deals with traditional Hollywood studios.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The electoral commission verified ballot counts following a contested recount.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The prominent magazine editor announced her retirement after a three-decade tenure.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Base metal inventories fell to critical lows at the London exchange.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The labor force participation rate has not fully recovered to pre-pandemic levels.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Dividend yields became more attractive as market volatility subsided.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Conservation policies protected public lands from commercial resource extraction.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Union leaders secured a historic pay raise for auto manufacturing employees.",
+        "true_category": "Economics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The national trade deficit widened as imports of consumer electronics surged.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Artificial intelligence is assisting composers with dynamic background score generation.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Producer prices declined slightly, suggesting upstream cost pressures are fading.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Fans are utilizing augmented reality applications to view player statistics during live stadium matches.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Border patrol capabilities were upgraded through radar and satellite technology.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Global supply chains are shifting as companies embrace nearshoring strategies.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Civic leaders established neighborhood safety advisory boards across urban wards.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Town hall discussions revealed growing public frustration with political gridlock.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Youth unemployment remains a critical challenge for developing economies.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Customs enforcement intercepted contraband shipments at international border checkpoints.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The sports network launched a dedicated channel for competitive video gaming coverage.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Audiobook listenership surpassed physical sales, altering how consumers digest modern literature.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The fixed-income market rallied as inflation fears began to ease.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "International observers monitored the transition of power in the capital.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The national debt reached a new ceiling, sparking political debates over spending.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Equal rights legislation gained support in both legislative houses.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The virtual theme park offers digital roller coasters that simulate realistic physical sensations.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Classical orchestras are performing scores from popular movies to attract younger crowds.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Statutory changes were enacted to streamline regulatory compliance for small ventures.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Fact-checking organizations debunked political disinformation circulating on social platforms.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The middle class in developing nations is expanding, driving demand for consumer goods.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Mail-in balloting expansion facilitated broader voter participation.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Environmental justice groups advocated for pollution reduction in industrial corridors.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Multilateral talks stalled due to disagreements over non-proliferation clauses.",
+        "true_category": "Politics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "A prominent publishing house faced backlash for attempting to alter classic children's books.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Structural unemployment is rising as automation replaces traditional manufacturing jobs.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The national security council met to evaluate emerging regional threats.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "The national unemployment rate fell to a historic low of four percent.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Traditional broadcasters are shifting focus toward unscripted reality television formats.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Gamified fitness applications are blending physical wellness with interactive entertainment.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Political campaigns expanded direct-to-voter messaging via encrypted mobile channels.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The narrative-driven indie game won multiple accolades for its emotional storytelling.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Ticket scalping bots continue to frustrate fans trying to purchase concert passes.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Seasonal hiring in the retail sector boosted overall employment figures.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Real wage growth turned positive for the first time in eighteen months.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Export controls were updated to restrict access to dual-use technologies.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "A backstage labor dispute over wages threatens to pause multiple stage productions.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The annual red carpet gala faced criticism for straying from its intended historical theme.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Monetary policymakers signaled a potential rate cut later this fiscal year.",
+        "true_category": "Economics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Foreign ministers issued a joint declaration supporting regional stability.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The pop superstar announced a global stadium tour featuring interactive visual elements.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Haptic feedback suits are enhancing immersion for virtual reality gaming enthusiasts.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "The beauty influencer launched a cosmetic line that sold out within minutes.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Freedom of speech advocates defended journalist rights to protect confidential sources.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The convention drew thousands of passionate cosplayers celebrating their favorite comic book characters.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Early voting locations were expanded across rural counties to improve access.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Bilateral commerce agreements removed duties on manufactured goods.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Fashion week was disrupted by climate activists staging protests near the runway entrance.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Grassroots organizers mobilized volunteers across competitive battleground districts.",
+        "true_category": "Politics",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Audit rates have increased as the revenue service targets high-net-worth individuals.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Emerging markets are driving global GDP growth despite currency headwinds.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Studio executives decided to delay the superhero sequel to refine visual effects.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "An independent commission published findings on electoral interference attempts.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "International shipping rates normalized after two years of extreme volatility.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Environmental protection officers enforced emission standards on industrial facilities.",
+        "true_category": "Politics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Business investment in capital equipment declined amid uncertain economic forecasts.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "City council members approved funding for public transportation upgrades.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Strategic corporate investments are directed toward building resilient digital delivery infrastructure.",
+        "true_category": "Entertainment",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "E-commerce penetration continues to grow, fundamentally changing consumer shopping habits.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Digital transparency initiatives required disclaimers on online political ads.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "The central bank maintained its benchmark interest rate to support economic recovery.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Players expressed frustration over pay-to-win mechanics in the latest premium release.",
+        "true_category": "Entertainment",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Retail real estate is transitioning toward experiential and entertainment venues.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Silver mining companies reported record revenues amid rising industrial consumption.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    },
+    {
+        "document": "Immersive virtual reality concerts allow fans to experience live music from their living rooms.",
+        "true_category": "Entertainment",
+        "cluster": 1,
+        "predicted_category": "Entertainment"
+    },
+    {
+        "document": "Free trade zones saw expanded warehousing activity due to tariff exemptions.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Clean energy subsidies aimed to accelerate transition toward solar and wind power.",
+        "true_category": "Politics",
+        "cluster": 2,
+        "predicted_category": "Politics"
+    },
+    {
+        "document": "Natural gas markets experienced high volatility ahead of the winter season.",
+        "true_category": "Economics",
+        "cluster": 0,
+        "predicted_category": "Economics"
+    }
+]
