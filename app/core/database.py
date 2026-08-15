@@ -18,6 +18,9 @@ term_index = db["term_index"]
 # for storing crawled logs
 crawl_log = db["crawl_log"]
 
+# for storing clustered documents of: Economics, Entertainment, Politics
+clustered_docs = db["clustered_docs"]
+
 
 def init_db_indexes():
     """
