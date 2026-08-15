@@ -11,7 +11,7 @@ from urllib.robotparser import RobotFileParser
 
 # importing configuration and database collections
 from app.core.config import settings
-from app.core import raw_pages_publications, raw_pages_profiles
+from app.core import raw_pages_publications, raw_pages_profiles, crawl_log
 
 
 # fetching the content of the robots.txt file
@@ -371,6 +371,12 @@ def run_background_crawler():
             # passing the specific profiles URL to your extractor
             profiles = extract_profiles(settings.SEED_URL, driver)
             crawled_count += len(profiles)
+
+        # storing crawling date and time
+        crawl_log.insert_one({
+            "run_at": datetime.now(timezone.utc), "pages_crawled": crawled_count
+        })
+        print(f"Crawled data stored in DB successfully")
 
     except BaseException as err:
         print(f"Error while crawling: {err}")
