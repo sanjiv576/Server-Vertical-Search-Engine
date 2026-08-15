@@ -48,7 +48,7 @@ def cosine_similarity(vec1, vec2):
     return sum(vec1[t] * vec2[t] for t in common_terms)
 
 
-def search(query, top_k=10):
+def search(query, top_k=10, threshold_value=0):
     # generating the normalized TF-IDF vector for the user's search query
     q_vector = build_query_vector(query)
 
@@ -65,8 +65,8 @@ def search(query, top_k=10):
         # computing the similarity score between the user's query and the current document
         score = cosine_similarity(q_vector, doc["vector"])
 
-        # filtering out documents that share zero words with the query
-        if score > 0:
+        # filtering out documents that less than threshold value
+        if score > threshold_value:
             # appending just the score and URL
             results.append((score, doc["url"]))
 
@@ -74,4 +74,4 @@ def search(query, top_k=10):
     results.sort(key=lambda x: x[0], reverse=True)
 
     # returning only the top 'k' number of results
-    return results[:top_k]
+    return results
