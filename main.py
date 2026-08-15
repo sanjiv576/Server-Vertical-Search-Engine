@@ -28,8 +28,9 @@ def scheduled_job():
 
 
 def run_scheduler_blocking():
-    # scheduling the job to run every 90 days
-    schedule.every(90).days.do(scheduled_job)
+    # scheduling the job to run every 90 days # 3 months
+    # TODO: for testing purpose crawling is tested for 1 day to check wether it crawls or not, acutally it must be 90 days, later needs to make 90 days
+    schedule.every(1).days.do(scheduled_job)
 
     # continuously checking for pending scheduled jobs
     while True:
