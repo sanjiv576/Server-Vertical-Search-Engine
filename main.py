@@ -10,6 +10,9 @@ from fastapi import FastAPI
 # importing our routers
 from app.api import search_router, system_router
 
+# import routers of clustering
+from app.api.cluster_routes import router as cluster_router
+
 # importing our services for the scheduled job
 from app.services.crawler import run_background_crawler
 from app.services.nlp_indexer import do_indexing_and_saving
@@ -73,3 +76,6 @@ app.add_middleware(
 # registering the API routers with their respective prefixes
 app.include_router(system_router, tags=["System"])
 app.include_router(search_router, prefix="/search", tags=["Search"])
+
+# registering the clustering router
+app.include_router(cluster_router)
