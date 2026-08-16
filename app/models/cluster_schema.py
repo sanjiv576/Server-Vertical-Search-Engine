@@ -25,6 +25,7 @@ class ClusteredDocument(BaseModel):
     true_category: Optional[str] = None
     cluster: int
     predicted_category: str
+    confidence: Optional[float] = None
 
 # defining the schema for the /cluster endpoint response
 
@@ -50,3 +51,14 @@ class GetDocsResponse(BaseModel):
     status: str
     total_documents: int
     data: List[ClusteredDocument]
+
+# defining the schema for clustering accuracy evaluation response
+
+
+class AccuracyEvaluationResponse(BaseModel):
+    status: str
+    accuracy: Optional[float] = None
+    correct_predictions: int
+    total_labeled: int
+    average_confidence: Optional[float] = None
+    accuracy_assessment: str
