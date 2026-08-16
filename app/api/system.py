@@ -5,7 +5,7 @@ from fastapi.responses import JSONResponse
 from app.services.crawler import run_background_crawler
 from app.services.nlp_indexer import do_indexing_and_saving
 
-# importing
+# for inserting already trained cluster docsgem
 from app.services.cluster_engine import (
     setup_initial_clustered_db
 )
