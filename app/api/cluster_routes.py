@@ -1,25 +1,23 @@
 from fastapi import APIRouter, HTTPException
-from pydantic import BaseModel
-
 from app.services.cluster_engine import (
     cluster_and_store_query,
     reset_user_queries,
     fetch_all_documents
 )
+from app.models.cluster_schema import (
+    ClusterRequest,
+    ClusterResponse,
+    ResetClusterResponse,
+    GetDocsResponse
+)
 
 # initializing the router for clustering endpoints
 router = APIRouter(prefix="/api/clustering", tags=["Document Clustering"])
 
-# defining the request body schema using pydantic
-
-
-class ClusterRequest(BaseModel):
-    text: str
-
 # handling the clustering of new user sentences
 
 
-@router.post("/cluster")
+@router.post("/cluster", response_model=ClusterResponse)
 async def cluster_text_endpoint(request: ClusterRequest):
     if not request.text.strip():
         raise HTTPException(status_code=400, detail="Text cannot be empty.")
@@ -38,7 +36,7 @@ async def cluster_text_endpoint(request: ClusterRequest):
 # handling the full reset of the clustering database
 
 
-@router.post("/reset_cluster")
+@router.post("/reset_cluster", response_model=ResetClusterResponse)
 async def reset_cluster_endpoint():
     try:
         # deleting all docs and re-inserting the base json dataset
@@ -56,7 +54,7 @@ async def reset_cluster_endpoint():
 # handling the retrieval of all clustered documents
 
 
-@router.get("/get_docs")
+@router.get("/get_docs", response_model=GetDocsResponse)
 async def get_docs_endpoint():
     try:
         # fetching all documents for the frontend table
