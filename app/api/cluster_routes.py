@@ -2,13 +2,15 @@ from fastapi import APIRouter, HTTPException
 from app.services.cluster_engine import (
     cluster_and_store_query,
     reset_user_queries,
-    fetch_all_documents
+    fetch_all_documents,
+    calculate_clustering_accuracy
 )
 from app.models.cluster_schema import (
     ClusterRequest,
     ClusterResponse,
     ResetClusterResponse,
-    GetDocsResponse
+    GetDocsResponse,
+    AccuracyEvaluationResponse
 )
 
 # initializing the router for clustering endpoints
@@ -63,6 +65,31 @@ async def get_docs_endpoint():
             "status": "success",
             "total_documents": len(documents),
             "data": documents
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+# evaluating clustering accuracy
+
+
+@router.get("/clustering_accuracy", response_model=AccuracyEvaluationResponse)
+async def clustering_accuracy_endpoint():
+    """
+    Evaluate the overall clustering accuracy by comparing predictions with labeled data.
+
+    Returns:
+        - accuracy: Accuracy percentage (0-100) based on labeled documents
+        - correct_predictions: Number of correct predictions
+        - total_labeled: Total documents with true_category assigned
+        - average_confidence: Average confidence score across all documents
+        - accuracy_assessment: Human-readable quality description
+    """
+    try:
+        accuracy_result = calculate_clustering_accuracy()
+        return {
+            "status": "success",
+            **accuracy_result
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
