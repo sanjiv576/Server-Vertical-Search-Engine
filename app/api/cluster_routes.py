@@ -12,7 +12,7 @@ from app.models.cluster_schema import (
 )
 
 # initializing the router for clustering endpoints
-router = APIRouter(prefix="/api/clustering", tags=["Document Clustering"])
+router = APIRouter(prefix="/clustering", tags=["Document Clustering"])
 
 # handling the clustering of new user sentences
 
