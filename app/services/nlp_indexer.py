@@ -140,7 +140,6 @@ def do_indexing_and_saving():
 
         # preparing the document payload for MongoDB
         vector_document = {
-            "url": url,
             # keeping the title alongside the vector makes generating search results much faster later
             "title": doc.get("title", ""),
             "vector": vector,
