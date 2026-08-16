@@ -26,14 +26,15 @@ def scheduled_job():
     # these functions now automatically pull seed_url, user_agent, etc., from your settings
     run_background_crawler()
     do_indexing_and_saving()
+    print(f"{20*"="} Crawled, Indexing and Saving completed... {20*"="}")
 
 # wrapping the schedule loop in a function to run in a separate thread
 
 
 def run_scheduler_blocking():
-    # scheduling the job to run every 90 days # 3 months
-    # TODO: for testing purpose crawling is tested for 1 day to check wether it crawls or not, acutally it must be 90 days, later needs to make 90 days
-    schedule.every(1).days.do(scheduled_job)
+
+    # automatically it crawls in every 3 months (tested syccessfully in every 15 mins)
+    schedule.every(90).days.do(scheduled_job)
 
     # continuously checking for pending scheduled jobs
     while True:
