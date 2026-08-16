@@ -40,11 +40,7 @@ def predict_text(text: str):
 def cluster_and_store_query(text: str):
     cluster_id, category = predict_text(text)
 
-    # generating a unique url string using uuid to prevent mongodb index errors
-    unique_id = str(uuid.uuid4())
-
     new_document = {
-        "url": f"user-query-{unique_id}",
         "document": text,
         "true_category": None,
         "cluster": cluster_id,
@@ -81,9 +77,6 @@ def save_json_docs():
     with open(json_path, "r", encoding="utf-8") as f:
         dict_clustered_docs = json.load(f)
 
-    # assigning unique urls to prevent duplicate key errors
-    for index, record in enumerate(dict_clustered_docs):
-        record["url"] = f"clustered-doc-{index}-{record.get('true_category', 'none')}-{record.get('cluster', 'none')}"
 
     # inserting all baseline documents into the db
     if dict_clustered_docs:
