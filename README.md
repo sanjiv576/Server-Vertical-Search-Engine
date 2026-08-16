@@ -140,7 +140,7 @@ Returns a JSON array of RankingResponse objects, sorted in descending order by s
 
 ### Task 2: Clustering Documents
 
-Synthetic data is used for 3 categories: ***"Economics"***, ***"Entertainment"***, ***"Politics"***. Each category has 150 documents, so in total 450 documents are trained under `K-Means algorithm` for clustering them.
+Synthetic data is used for 3 categories: **_"Economics"_**, **_"Entertainment"_**, **_"Politics"_**. Each category has 150 documents, so in total 450 documents are trained under `K-Means algorithm` for clustering them.
 
 ### Data Models (Schemas - Task 2)
 
@@ -156,13 +156,14 @@ Used to validate incoming statements or sentences prior to clustering.
 
 Represents a single clustered document object stored in the database.
 
-| Field                | Type               | Constraints         | Description                                              |
-| :------------------- | :----------------- | :------------------ | :------------------------------------------------------- |
-| `_id`                | `string`           | Required            | The stringified MongoDB ObjectId.                        |
-| `document`           | `string`           | Required            | The text content of the document.                        |
-| `true_category`      | `string` \| `null` | Optional / Nullable | The original dataset category, or null for user queries. |
-| `cluster`            | `int`              | Required            | The integer cluster ID produced by K-Means.              |
-| `predicted_category` | `string`           | Required            | The resolved category label predicted for the cluster.   |
+| Field                | Type               | Constraints         | Description                                                             |
+| :------------------- | :----------------- | :------------------ | :---------------------------------------------------------------------- |
+| `_id`                | `string`           | Required            | The stringified MongoDB ObjectId.                                       |
+| `document`           | `string`           | Required            | The text content of the document.                                       |
+| `true_category`      | `string` \| `null` | Optional / Nullable | The original dataset category, or null for user queries.                |
+| `cluster`            | `int`              | Required            | The integer cluster ID produced by K-Means.                             |
+| `predicted_category` | `string`           | Required            | The resolved category label predicted for the cluster.                  |
+| `confidence`         | `float` \| `null`  | Optional / Nullable | Classification confidence score between 0.0 and 1.0 (higher is better). |
 
 #### 3. ClusterResponse (Response Payload)
 
@@ -194,6 +195,19 @@ Returned when retrieving all available clustered documents.
 | `status`          | `string`                   | Required    | The status string.                                     |
 | `total_documents` | `int`                      | Required    | Total number of documents retrieved from the database. |
 | `data`            | `Array<ClusteredDocument>` | Required    | List of all clustered documents.                       |
+
+#### 6. AccuracyEvaluationResponse (Response Payload)
+
+Returned when evaluating overall clustering accuracy using labeled data.
+
+| Field                 | Type              | Constraints         | Description                                                                |
+| :-------------------- | :---------------- | :------------------ | :------------------------------------------------------------------------- |
+| `status`              | `string`          | Required            | The status string (e.g., "success").                                       |
+| `accuracy`            | `float` \| `null` | Optional / Nullable | Accuracy percentage (0-100) based on labeled documents.                    |
+| `correct_predictions` | `int`             | Required            | Number of correct predictions (where true_category == predicted_category). |
+| `total_labeled`       | `int`             | Required            | Total number of documents with true_category assigned.                     |
+| `average_confidence`  | `float` \| `null` | Optional / Nullable | Average confidence score across all documents in the database.             |
+| `accuracy_assessment` | `string`          | Required            | Human-readable assessment of clustering accuracy.                          |
 
 ---
 
@@ -227,7 +241,8 @@ Clusters a new user sentence using the pre-trained K-Means models and saves the 
     "document": "Spain won FIFA World Cup 2026",
     "true_category": null,
     "cluster": 1,
-    "predicted_category": "Entertainment"
+    "predicted_category": "Entertainment",
+    "confidence": 0.8234
   }
 }
 ```
@@ -277,8 +292,81 @@ Fetches all clustered documents from the database. The data is sorted in descend
       "document": "Natural gas markets experienced high volatility ahead of the winter season.",
       "true_category": "Economics",
       "cluster": 0,
-      "predicted_category": "Economics"
+      "predicted_category": "Economics",
+      "confidence": 0.7542
     }
   ]
 }
 ```
+
+#### 4. Evaluate Clustering Accuracy
+
+Evaluates the overall clustering accuracy by comparing predicted categories with true categories for labeled documents. Returns accuracy percentage and average confidence metrics.
+
+- **Endpoint:** `/clustering/clustering_accuracy`
+- **Method:** `GET`
+- **Headers:** `None`
+- **Request Body:** `None`
+
+**Request Example:**
+
+**Success Response (200 OK):**
+
+```json
+{
+  "status": "success",
+  "accuracy": 85.5,
+  "correct_predictions": 171,
+  "total_labeled": 200,
+  "average_confidence": 0.7542,
+  "accuracy_assessment": "Good - Reasonable clustering accuracy"
+}
+```
+
+**Response Notes:**
+
+- `accuracy` is calculated only on documents where `true_category` is set (labeled data)
+- `correct_predictions` counts documents where `true_category == predicted_category`
+- `average_confidence` is computed across ALL documents in the database
+- `accuracy_assessment` ranges from "Very Poor" (< 50%) to "Excellent" (≥ 90%)
+
+---
+
+### Classification Confidence & Accuracy Metrics
+
+#### Confidence Score Interpretation
+
+The `confidence` field (0.0 to 1.0) indicates how certain the classification is based on the K-Means distance to the assigned cluster centroid.
+
+| Confidence Range | Interpretation | Recommendation                 |
+| :--------------- | :------------- | :----------------------------- |
+| **0.8 - 1.0**    | Very High      | Highly reliable classification |
+| **0.6 - 0.8**    | High           | Reliable classification        |
+| **0.4 - 0.6**    | Medium         | Reasonable classification      |
+| **0.2 - 0.4**    | Low            | Consider manual review         |
+| **0.0 - 0.2**    | Very Low       | Flag for manual review         |
+
+#### Accuracy Assessment Levels
+
+The `accuracy_assessment` provides a human-readable interpretation of clustering system performance.
+
+| Accuracy Range | Assessment                                |
+| :------------- | :---------------------------------------- |
+| **≥ 90%**      | Excellent - Very high clustering accuracy |
+| **75% - 90%**  | Good - Reasonable clustering accuracy     |
+| **60% - 75%**  | Fair - Acceptable clustering accuracy     |
+| **50% - 60%**  | Poor - Below average clustering accuracy  |
+| **< 50%**      | Very Poor - Clustering needs improvement  |
+
+#### How to Use These Metrics
+
+1. **Classification Confidence**: Use per-document confidence to:
+   - Show confidence indicators in the frontend UI
+   - Flag low-confidence predictions for manual review
+   - Filter results based on confidence thresholds
+
+2. **Clustering Accuracy**: Use system-level accuracy to:
+   - Monitor overall system performance
+   - Identify when retraining is needed
+   - Track improvements over time
+   - Label `true_category` on documents to enable accuracy calculation
