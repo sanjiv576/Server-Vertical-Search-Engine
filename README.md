@@ -1,6 +1,8 @@
-## Backend API Documentation: Assignment of Coventry University (Softwarica College) - Vertical Search Engine
+## Backend API Documentation: Assignment of Coventry University (Softwarica College)
 
-This document outlines the REST API endpoints, expected request payloads, and response schemas for the Vertical Search Engine backend.
+This document outlines the REST API endpoints, expected request payloads, and response schemas for the Vertical Search Engine backend and clustering documents.
+
+### Task 1: Vertical Search Engine
 
 ### Base URL
 
@@ -9,7 +11,7 @@ This document outlines the REST API endpoints, expected request payloads, and re
 
 ---
 
-### Data Models (Schemas)
+### Data Models (Schemas) for Task 1
 
 The frontend must adhere to these TypeScript-equivalent interfaces when sending or receiving data.
 
@@ -132,4 +134,151 @@ Returns a JSON array of RankingResponse objects, sorted in descending order by s
     "number_of_pages": "15 p."
   }
 ]
+```
+
+---
+
+### Task 2: Clustering Documents
+
+Synthetic data is used for 3 categories: ***"Economics"***, ***"Entertainment"***, ***"Politics"***. Each category has 150 documents, so in total 450 documents are trained under `K-Means algorithm` for clustering them.
+
+### Data Models (Schemas - Task 2)
+
+#### 1. ClusterRequest (Request Payload)
+
+Used to validate incoming statements or sentences prior to clustering.
+
+| Field  | Type     | Constraints       | Description                                       |
+| :----- | :------- | :---------------- | :------------------------------------------------ |
+| `text` | `string` | Minimum length: 1 | The user's statement or sentence to be clustered. |
+
+#### 2. ClusteredDocument (Sub-schema)
+
+Represents a single clustered document object stored in the database.
+
+| Field                | Type               | Constraints         | Description                                              |
+| :------------------- | :----------------- | :------------------ | :------------------------------------------------------- |
+| `_id`                | `string`           | Required            | The stringified MongoDB ObjectId.                        |
+| `document`           | `string`           | Required            | The text content of the document.                        |
+| `true_category`      | `string` \| `null` | Optional / Nullable | The original dataset category, or null for user queries. |
+| `cluster`            | `int`              | Required            | The integer cluster ID produced by K-Means.              |
+| `predicted_category` | `string`           | Required            | The resolved category label predicted for the cluster.   |
+
+#### 3. ClusterResponse (Response Payload)
+
+Returned upon successfully clustering a new user document.
+
+| Field     | Type                | Constraints | Description                                     |
+| :-------- | :------------------ | :---------- | :---------------------------------------------- |
+| `status`  | `string`            | Required    | The status string (e.g., "success").            |
+| `message` | `string`            | Required    | A descriptive message regarding the clustering. |
+| `data`    | `ClusteredDocument` | Required    | The newly processed document cluster object.    |
+
+#### 4. ResetClusterResponse (Response Payload)
+
+Returned upon successfully resetting the clustering dataset.
+
+| Field            | Type     | Constraints | Description                                        |
+| :--------------- | :------- | :---------- | :------------------------------------------------- |
+| `status`         | `string` | Required    | The status string.                                 |
+| `message`        | `string` | Required    | A descriptive message reflecting the reset status. |
+| `deleted_count`  | `int`    | Required    | The total number of documents removed.             |
+| `inserted_count` | `int`    | Required    | The total number of base documents re-seeded.      |
+
+#### 5. GetDocsResponse (Response Payload)
+
+Returned when retrieving all available clustered documents.
+
+| Field             | Type                       | Constraints | Description                                            |
+| :---------------- | :------------------------- | :---------- | :----------------------------------------------------- |
+| `status`          | `string`                   | Required    | The status string.                                     |
+| `total_documents` | `int`                      | Required    | Total number of documents retrieved from the database. |
+| `data`            | `Array<ClusteredDocument>` | Required    | List of all clustered documents.                       |
+
+---
+
+### API Endpoints (Task 2: Document Clustering)
+
+#### 1. Cluster Text
+
+Clusters a new user sentence using the pre-trained K-Means models and saves the result into the database.
+
+- **Endpoint:** `/clustering/cluster`
+- **Method:** `POST`
+- **Headers:** Content-Type: `application/json`
+- **Request Body:** `ClusterRequest`
+
+**Request Example:**
+
+```json
+{
+  "text": "Spain won FIFA World Cup 2026"
+}
+```
+
+**Success Response (200 OK):**
+
+```json
+{
+  "status": "success",
+  "message": "Text successfully clustered.",
+  "data": {
+    "_id": "6a8129808bde50d1a134a93f",
+    "document": "Spain won FIFA World Cup 2026",
+    "true_category": null,
+    "cluster": 1,
+    "predicted_category": "Entertainment"
+  }
+}
+```
+
+#### 2. Reset Cluster Dataset
+
+Deletes all existing clustered documents and repopulates the database exclusively with the base training dataset from the `all_docs.json` file.
+
+- **Endpoint:** `/clustering/reset_cluster`
+- **Method:** `POST`
+- **Headers:** `None`
+- **Request Body:** `None`
+
+**Request Example:**
+
+**Success Response (200 OK):**
+
+```json
+{
+  "status": "success",
+  "message": "Successfully deleted 451 old documents and re-seeded 450 baseline documents.",
+  "deleted_count": 451,
+  "inserted_count": 450
+}
+```
+
+#### 3. Get All Clustered Documents
+
+Fetches all clustered documents from the database. The data is sorted in descending order by `_id`, ensuring the most recently inserted user queries appear at the top of the list.
+
+- **Endpoint:** `/clustering/get_docs`
+- **Method:** `GET`
+- **Headers:** Content-Type: `None`
+- **Request Body:** `None`
+
+**Request Example:**
+
+**Success Response (200 OK):**
+
+```json
+{
+  "status": "success",
+  "total_documents": 450,
+  "data": [
+    {
+      "_id": "6a812a1d8bde50d1a134ab01",
+      "document": "Natural gas markets experienced high volatility ahead of the winter season.",
+      "true_category": "Economics",
+      "cluster": 0,
+      "predicted_category": "Economics"
+    }
+  ]
+}
 ```
