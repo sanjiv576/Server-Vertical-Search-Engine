@@ -144,7 +144,7 @@ Synthetic data is used for 3 categories: **_"Economics"_**, **_"Entertainment"_*
 
 #### Clustering Pipeline (Optimized)
 
-The feature extraction pipeline for clustering has been upgraded from 71.3% to 92.67%classification accuracy. The optimized pipeline leverages a combination of advanced NLP and dimensionality reduction techniques:
+The feature extraction pipeline for clustering has been upgraded from 71.3% to 93.83% classification accuracy. The optimized pipeline leverages a combination of advanced NLP and dimensionality reduction techniques:
 
 1. **TF-IDF Vectorization**: Extracts term frequencies weighted by inverse document frequency to represent term importance.
 2. **TruncatedSVD (LSA)**: Reduces high-dimensional sparse TF-IDF vectors into dense semantic representations.

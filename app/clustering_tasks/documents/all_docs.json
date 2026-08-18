@@ -2,3001 +2,3601 @@
     {
         "document": "Legislators are debating a progressive wealth tax aimed at addressing widening income inequality nationwide.",
         "true_category": "Economics",
-        "cluster": 0
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Global leaders released a joint statement strongly condemning the recent unilateral military aggression in the disputed territory.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The massive national debate over strictly implementing a universal basic income has heavily dominated the current political election cycle.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Rising energy costs are severely impacting the profit margins of energy-intensive manufacturing businesses.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Corporate debt issuance shifted toward shorter maturities to reduce long-term interest expenditure.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The critically acclaimed French romance film completely swept the foreign language categories at multiple international award shows.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Consumer prices continued to climb this month, raising severe inflation fears among macroeconomists and policymakers.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Top military generals testified before the congressional committee regarding the massive strategic failures of the recent overseas withdrawal.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The global semiconductor shortage has forced automotive manufacturers to significantly reduce their production targets.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The true-crime documentary sparked a massive public outcry that eventually led to the reopening of a decades-old cold case.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Default rates on subprime mortgages have begun to tick upwards, worrying major banking institutions and regulators.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Tax refunds were lower on average this year, contributing to tighter household budgets in the first quarter.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Mutual fund outflows accelerated this quarter as retail clients moved capital into low-risk government debt instruments.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The strict preservation of the massive ancient rainforest is being heavily threatened by aggressive illegal logging and unchecked agricultural expansion.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Celebrity brand ambassadors are facing massive pressure from fans to drop sponsorships with companies tied to environmental controversies.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Fans are actively speculating that the cryptic social media posts from the young actress hint at a massive upcoming career change.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Analysts predict that the national Gross Domestic Product will contract by two percent in the upcoming fiscal quarter.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The R&B artist swept the Grammy Awards last night, taking home trophies for Album of the Year and Best New Artist.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Corporate restructuring advisors saw increased demand from distressed retail and consumer goods firms.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The pharmaceutical company saw its stock price triple after securing lucrative government contracts for its new drug.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Stock market volatility has increased significantly this quarter, driven by uncertainty surrounding future central bank policies.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The fiercely debated climate resilience bill strictly allocates massive federal funding to heavily protect coastal cities from rising sea levels.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Legal scholars are fiercely debating the massive, long-term implications of the highly unprecedented judicial precedent established yesterday.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The strictly independent investigative journalism outlet heavily exposed a massive, incredibly complex network of dark money political contributions.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The famous power couple's massive, multi-million dollar prenuptial agreement was leaked to the press during their bitter divorce.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "A massive coalition of legal advocacy groups heavily petitioned the supreme court to strictly review the deeply flawed capital punishment protocols.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The transition to renewable energy has triggered a massive supercycle in the demand for copper and lithium.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Raw material bottlenecks forced automobile manufacturers to halt assembly lines temporarily.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The massive intelligence failure heavily allowed the strictly coordinated cyberattack to temporarily cripple the nation's banking infrastructure.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The city's progressive new police chief has implemented a massive overhaul of internal accountability and community policing protocols.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The massive leak of strictly confidential government emails was heavily weaponized by political opponents to aggressively smear the incumbent.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Overtime hours in manufacturing facilities decreased as incoming orders moderated across industrial sectors.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Corporate profit margins have remained surprisingly thick as companies successfully pass increased costs onto consumers.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Voice actors for major video game franchises are officially unionizing to demand better residuals and protection against AI cloning.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Buy-now-pay-later services gained popularity among younger demographics purchasing everyday consumer goods.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Leaked internal emails revealed a massive, coordinated effort by party officials to actively suppress minority voter turnout.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Bilateral trade negotiations stalled over disputes concerning intellectual property protection and market access tariffs.",
         "true_category": "Economics",
-        "cluster": 0
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The department of homeland security implemented massive new screening protocols at all major international points of entry.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The administration's renewed threats of tariffs on major trading partners are unsettling global markets.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Vintage luxury handbags are currently outperforming traditional stocks as a highly lucrative alternative investment asset.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The highly publicized celebrity defamation trial became a massive media spectacle, drawing millions of daily live-stream viewers.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "A massive wave of corporate layoffs in the technology sector has flooded the job market with highly skilled engineers.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The groundbreaking bilateral nuclear disarmament treaty was officially ratified, mandating massive reductions in intercontinental ballistic missiles.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The massive political polarization in the country has strictly made bipartisan legislative compromise incredibly difficult to heavily achieve.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Labor unions across the manufacturing sector are threatening widespread strikes over stagnant wages and poor working conditions.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Merger and acquisition activity showed signs of recovery after months of regulatory delay and valuation gaps.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The federal housing authority proposed massive sweeping changes to zoning laws to aggressively combat systemic housing discrimination.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The yield curve inverted further today, historically a reliable technical indicator of an impending economic recession.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Cryptocurrency markets experienced a massive crash today following rumors of strict new government financial regulations.",
         "true_category": "Economics",
-        "cluster": 0
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The International Monetary Fund has explicitly highlighted geopolitical tensions as a major risk to global stability.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The renowned ballet company announced a global tour featuring a highly controversial, modernized adaptation of Swan Lake.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "A massive backstage labor dispute over fair wages threatens to shut down multiple major Broadway productions next week.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Bonds experienced a major rally as investors sought yield amid persistent stock market volatility.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The massive strategic bomber fleet was heavily upgraded to strictly ensure maximum stealth capabilities against advanced enemy radar systems.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The massive foreign propaganda campaign heavily utilized strictly automated bot networks to aggressively manipulate domestic public opinion.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The studio officially delayed the highly anticipated summer blockbuster to reshoot its massively criticized third act.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The leak of the trailer for the upcoming sci-fi franchise installment caused a massive frenzy across social media platforms.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Minimum wage increases went into effect across several regions, sparking debates on small business operating margins.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Export restrictions on critical minerals sparked supply concerns across the global electronics industry.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Discount retailers expanded market share as consumers actively sought out lower-priced alternatives.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Base metal inventories at the London Metal Exchange have dropped to critically low levels, threatening industrial output.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The purchasing managers index (PMI) indicated contraction in manufacturing activity for the third consecutive month.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A popular video essayist won a major journalism award for their comprehensive deep-dive into internet pop culture history.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The massive backlog of federal immigration court cases has severely delayed asylum hearings for tens of thousands of desperate applicants.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "International peacekeeping forces were massively deployed to strictly enforce the highly fragile ceasefire between the heavily warring factions.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Crude oil prices stabilized this quarter amid global supply chain disruptions and unexpected production cuts by OPEC.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The strict new wealth tax proposal aims to massively redistribute capital from the ultra-rich to deeply underfunded social welfare programs.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The massive environmental disaster strictly forced the government to heavily regulate the previously unchecked disposal of highly toxic industrial waste.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The retail giant reported massive quarterly losses and announced the immediate closure of over two hundred store locations.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The prominent electronic dance music DJ performed a massive live set inside a popular multiplayer video game universe.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Deepfake technology regulations are forcing visual effects companies to drastically alter their digital de-aging workflows.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Wall Street analysts have downgraded several major retail stocks, citing weakening consumer demand and rising inventory costs.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The proposed federal budget faces severe legislative gridlock as factions heavily disagree on military spending and tax cuts.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The country music star broke a massive industry record by simultaneously holding the top three spots on the global singles chart.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The parliamentary committee officially recommended massive amendments to the proposed corporate taxation regulations.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The federal judge officially issued a massive nationwide injunction to strictly halt the implementation of the highly controversial immigration policy.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Holographic performances of deceased musical legends are drawing sold-out crowds but sparking intense ethical debates among fans.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "A prominent YouTube creator broke viewing records with a massive live-streamed charity event featuring dozens of A-list celebrities.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The massive international arms embargo heavily restricted the strictly rogue nation's ability to maintain its rapidly degrading military hardware.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Municipal property taxes were significantly increased to cover the massive budget deficit in the public education system.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Nollywood, the Nigerian film industry, is experiencing a massive boom in high-budget productions and international distribution deals.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Senators introduced a massive new legislative package designed to actively combat domestic corruption and increase government transparency.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The strictly state-controlled media apparatus heavily broadcasted massive, incredibly elaborate military parades to aggressively project national strength.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Paparazzi drones were heavily restricted by new privacy laws after several high-profile celebrities reported massive security breaches.",
         "true_category": "Entertainment",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Agricultural commodity prices spiked after severe droughts devastated wheat and corn yields across the Midwest.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The unexpected surge in export volumes has provided a much-needed boost to the country's overall economic output.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Foreclosure filings increased marginally from historic lows, though overall mortgage delinquency rates remained managed.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Vinyl record sales have officially surpassed CD sales for the third consecutive year, driven by younger, audiophile consumers.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The viral dance track currently dominating the global music charts was produced entirely by a teenager in their bedroom.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The pop superstar's stadium tour is projected to become the highest-grossing musical tour in recorded history.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The celebrity couple's highly publicized and bitter divorce proceedings have dominated daytime entertainment news programming all week.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The fierce international outcry over massive, strictly state-sponsored political assassinations has led to severe global diplomatic isolation.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Commercial banks reported record quarterly profits driven entirely by higher net interest margins on consumer loans.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Studio executives are actively formalizing disclosure practices around generative artificial intelligence used in post-production.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Speedrunners managed to completely beat the massive hundred-hour adventure game in under thirty minutes by exploiting newly discovered glitches.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The massive Bollywood action epic broke international box office records, becoming the highest-grossing Indian film in history.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Viewers complained heavily about the pacing and dark lighting of the highly anticipated season finale of the prestige drama.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The central bank voted unanimously to leave interest rates unchanged, but hinted at future policy tightening if inflation persists.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The United Nations Security Council convened an emergency session to address the escalating border dispute between the two nations.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "A massive wave of corporate bankruptcies is expected in the retail sector if consumer spending does not recover soon.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The national deficit widened significantly following the implementation of massive, unfunded government tax cuts.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A major cinema chain has introduced dynamic ticket pricing, charging moviegoers significantly more for opening weekend premieres.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The highly publicized political corruption trial concluded with a massive, absolutely shocking guilty verdict for the veteran state senator.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Retro gaming preservationists successfully lobbied for new copyright exemptions to legally archive abandoned digital software.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Silver mining stocks rallied today following a sudden spike in industrial demand for precious metals.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Town hall meetings have become increasingly contentious as local residents fiercely debate the proposed commercial rezoning plans.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "OPEC members agreed to extend voluntary crude oil production cuts into the next quarter to support global benchmark prices.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Anime streaming services are reporting massive subscriber growth in Western markets as the medium continues to hit the mainstream.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Graphic novel sales have skyrocketed in recent years, driven heavily by adult readers and complex, mature storytelling.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The highly anticipated international peace summit concluded without a formal treaty due to massive disagreements over territorial borders.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Consumer credit growth decelerated as financial institutions tightened lending criteria for revolving personal lines.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A massive joint military exercise with allied nations was officially conducted to project power and deter regional aggression.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The strict new gun control legislation was heavily championed by a massive coalition of fiercely dedicated grassroots advocacy groups.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The massive international carbon tax proposal aims to strictly penalize heavily polluting nations to aggressively fund global climate mitigation efforts.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Music streaming platforms are completely overhauling their royalty payout structures to better compensate independent artists.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The massive lifetime achievement tribute featured surprise musical performances from dozens of the honored artist's famous collaborators.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Streaming services are aggressively bundling their platforms together in an effort to combat severe subscriber fatigue and churn.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Energy utilities petitioned regulators for rate hikes to offset higher capital expenditures on grid modernization.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The massive geopolitical shift towards multipolarity has severely weakened the long-standing diplomatic influence of traditional Western powers.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The mayoral candidate promised to completely revitalize the downtown commercial district through massive tax incentives for small businesses.",
         "true_category": "Politics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Strategic grain reserves were drawn down to stabilize local food prices following severe weather disruptions.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The initial public offering (IPO) market has effectively dried up this year due to unfavorable macroeconomic conditions.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Physical cassette tapes are experiencing a massive, highly unexpected sales boom among indie music collectors and retro enthusiasts.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The presidential hopeful heavily focused their massive campaign platform on aggressively reducing extreme wealth inequality.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Research and development spending remained resilient among major pharmaceutical and semiconductor enterprises.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Port congestion eased significantly, leading to a sharp decline in international container shipping freight rates.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The massive cultural shift towards strictly prioritizing environmental sustainability has heavily influenced the platforms of major political parties.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Studio executives are actively pivoting away from high-budget superhero franchises to focus on mid-budget horror and comedy films.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The massive political movement to strictly divest public pension funds from heavy fossil fuel industries has gained incredible momentum.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The massive multinational free trade agreement was officially ratified, eliminating thousands of protective tariffs across the continent.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The airline industry is forecasting record revenue this summer as post-pandemic travel demand continues to boom.",
         "true_category": "Economics",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The strict new data privacy laws massively restrict how heavy tech conglomerates can actively harvest and monetize user information.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Economists highlighted that wealth effects from rising stock valuations supported high-end consumer luxury purchases.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Property management firms reported high occupancy rates in multi-family residential complexes across suburban markets.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The independent special counsel released a massive, highly anticipated report detailing severe systemic corruption within the executive branch.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Luxury goods manufacturers reported slower sales growth in major Asian markets following years of expansion.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The government has released millions of barrels from the strategic petroleum reserve to artificially lower gas prices.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Government bond yields surged as foreign investors demanded higher returns to finance the country's growing national debt.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A major talent agency was heavily fined for actively violating conflict-of-interest regulations regarding client packaging deals.",
         "true_category": "Entertainment",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Retail banking customers are moving their savings into high-yield accounts to combat the corrosive effects of inflation.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Mortgage rates hit their highest level in two decades, pricing many first-time homebuyers completely out of the market.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Nostalgia continues to drive ticket sales, as the long-awaited legacy sequel easily dominated the holiday box office.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Real estate investment trusts focused on healthcare facilities outperformed retail-focused property portfolios.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Corporate share buyback programs have reached record levels, artificially boosting the earnings per share of major companies.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "International humanitarian agencies are struggling to heavily mitigate the massive global refugee crisis caused by extreme geopolitical instability.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Tax compliance software adoption has increased significantly among mid-sized enterprises facing complex regulatory changes.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The Pulitzer Prize-winning author's newest massive historical fiction novel explores the complex societal impacts of the industrial revolution.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The opposition party launched a massive grassroots voter registration drive aimed at increasing turnout in critical swing states.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Developing economies are projected to grow at a much faster rate than developed nations over the next decade.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Global equity markets rallied sharply on Monday following unexpectedly positive corporate earnings reports from the technology sector.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The massive political outrage over strictly censored internet access has heavily fueled fierce anti-government protests in the authoritarian state.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The appellate court officially overturned the massive corporate monopoly conviction, citing severely insufficient evidence from the federal prosecutors.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "A prominent art-house distributor acquired the rights to the controversial foreign film following its massive success at the Venice Film Festival.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The popular battle royale game hosted a massive in-game cinematic event that attracted over ten million concurrent players.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The constitutional court explicitly struck down the massive executive order, ruling that the president had heavily exceeded his legal authority.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Off-Broadway experimental productions are gaining massive popularity among younger audiences seeking unique, immersive theater.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Job openings in the hospitality and service sectors remain historically high as businesses struggle to find qualified staff.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Trade policy is increasingly geo-economic, with nations using tariffs, export controls, and strategic partnerships as tools.",
         "true_category": "Politics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Subsidies for domestic agricultural producers were renewed to protect small farms against volatile global market prices.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The entertainment conglomerate is actively exploring a spin-off of its highly profitable streaming media division.",
         "true_category": "Economics",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Fans are aggressively decoding the cryptic easter eggs hidden within the pop star's latest massive music video.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Following a ten-year hiatus, the legendary rock band announced a surprise reunion album and an extensive global tour.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Hyperinflation in several developing nations has completely eroded the value of their national fiat currencies.",
         "true_category": "Economics",
-        "cluster": 0
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Campaign finance regulations are facing intense scrutiny following the discovery of several massive undisclosed corporate donations.",
         "true_category": "Politics",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Short-form video creators are officially being courted by major studios to develop their viral sketches into full-length television pilots.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Investments in solar and wind infrastructure reached record levels as clean energy generation costs continued to fall.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Spanish-language soap operas are being heavily rebooted with massive budgets and darker, more modern narrative storylines.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The popular cosmetics brand was officially forced to pull its new foundation line due to a severely limited and non-inclusive shade range.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The United Nations strongly condemned the authoritarian regime for its massive, strictly calculated suppression of peaceful democratic protests.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The A-list actor issued a massive public apology after old, highly offensive social media posts resurfaced overnight.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The highly anticipated open-world role-playing game was delayed for a third time, frustrating millions of eager gamers.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The international film festival heavily showcased emerging directors from the Middle East, drawing incredible praise from global critics.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Political pundits heavily predicted a massive electoral landslide for the opposition party due to severe widespread economic dissatisfaction.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Zohran Mamdani, a self-described democratic socialist, was sworn in as mayor of New York City.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Gig economy platforms faced legal challenges regarding worker classification and mandatory benefit contributions.",
         "true_category": "Economics",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Affordable housing shortages are becoming a major economic crisis for municipal governments across the country.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Rising sea levels are actively causing massive geopolitical tensions as low-lying island nations fiercely demand international climate reparations.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The strengthening of the US Dollar has made it extremely difficult for emerging markets to service their foreign debt.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A major overhaul of the corporate tax code is expected to incentivize multinational companies to repatriate overseas profits.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Audiobook listenership has officially surpassed e-book sales, signaling a massive shift in how modern consumers digest literature.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Capital gains tax adjustments have led high-net-worth individuals to restructure their investment holdings.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The annual Met Gala red carpet was heavily criticized this year for completely missing the nuance of its historical theme.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The massive political debate over strictly banning the highly popular foreign-owned video app centers entirely on heavy national security concerns.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The department of energy announced a massive public grant program to heavily subsidize the rapid adoption of residential solar panels.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Local government officials are actively applying for massive federal grants to repair the region's rapidly deteriorating highway infrastructure.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "A prominent literary agency dropped a highly successful author following a massive online controversy regarding plagiarism accusations.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The highly anticipated fantasy sequel leaked online a week before its massive global publication date, devastating the author.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "National security advisors briefed the president on a massive, highly sophisticated cyberattack targeting the country's power grid.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The international film festival announced a massive new initiative to actively fund and spotlight emerging filmmakers from marginalized communities.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The beloved young adult dystopian series is officially being rebooted into a high-budget television show by a major streaming service.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Massive nationwide protests erupted following the highly controversial supreme court ruling that struck down long-standing civil rights protections.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The minister of finance officially presented a massive, highly austere budget designed to rapidly decrease the ballooning national deficit.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Corporate bond issuances surged this week as companies rushed to lock in current interest rates before they rise further.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The fashion mogul was forced to issue a public apology after facing intense backlash over highly insensitive comments made on a podcast.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The upcoming U.S. midterms will determine the control of both the Senate and House of Representatives.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Gender-neutral clothing lines have become a massive focal point for major department stores heading into the new retail season.",
         "true_category": "Entertainment",
-        "cluster": 1
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The environmental protection agency heavily fined the massive chemical corporation for severely contaminating the local municipal water supply.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The low-budget horror film became an absolute box office juggernaut, relying entirely on a massive viral guerrilla marketing campaign.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "International maritime laws are being heavily challenged by aggressive territorial claims in the highly contested southern sea.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Uranium prices rallied significantly amid renewed global interest in nuclear power as a baseline zero-carbon energy source.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Financial institutions are undergoing stress tests to evaluate their resilience against extreme economic scenarios.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Local lawmakers are actively drafting strict new zoning laws to combat the massive affordable housing crisis gripping the city.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The intelligence agency successfully intercepted a massive domestic terror plot aiming to heavily disrupt the upcoming national election.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Initial public offerings struggled to sustain post-listing gains in an environment of market risk aversion.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A massive bidding war erupted between major streaming networks for the exclusive rights to a new sci-fi novel adaptation.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "A massive merger between two major entertainment conglomerates is currently being heavily scrutinized by federal antitrust regulators.",
         "true_category": "Entertainment",
-        "cluster": 0
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The national touring production of the hit musical broke box office records at regional theaters across the Midwest.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The prolonged Hollywood writers' strike has officially ended after studios agreed to strict new protections regarding artificial intelligence.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The theater district is hosting a massive outdoor festival featuring free performances from the casts of popular current shows.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "A massive global trade war was narrowly avoided after negotiators reached a last-minute compromise on agricultural import tariffs.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The massive naval fleet was heavily repositioned to strictly assert freedom of navigation in the highly contested international waters.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Defense contractors are heavily lobbying congress to strictly approve massive new funding for advanced autonomous weapons systems.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The Pentagon officially declassified a massive trove of strictly confidential intelligence reports regarding foreign election interference.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Public debt service costs have doubled, consuming a significant portion of annual federal tax receipts.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The upcoming superhero reboot has officially wrapped filming, with the director promising a darker, more grounded tone.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Spot prices for natural gas surged due to unexpected maintenance at major liquefied natural gas export facilities.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A prominent fighting game tournament was forced to ban a specific character due to a massive, game-breaking glitch.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Asian stock markets closed lower today following a massive sell-off in the real estate and manufacturing sectors.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The massive independent redistricting commission actively redrew the heavily gerrymandered electoral map to ensure fair representation.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Central bankers are currently facing a difficult balancing act between controlling inflation and preventing widespread job losses.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Stagflation risks gained attention as low economic growth combined with stubborn inflation pressure.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A prominent cabinet member was officially forced to resign after massive allegations of widespread bribery and extortion surfaced.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Foreign buyers are flooding the luxury real estate market, driving up property taxes for local residents.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The writers' guild reached a historic agreement detailing strict new boundaries for artificial intelligence in script ideation.",
         "true_category": "Entertainment",
-        "cluster": 0
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The narrative-driven adventure game swept the annual gaming awards, earning praise for its emotional storytelling and character development.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The federal ethics committee launched a massive investigation into the senator's highly suspicious stock market trades.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Major talent agencies have launched dedicated divisions specifically designed to manage and monetize digital-first content creators.",
         "true_category": "Entertainment",
-        "cluster": 0
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The legendary pop icon surprised fans by announcing an immersive virtual reality concert accessible exclusively through VR headsets.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Economic sanctions have completely isolated the country from the international banking and global trade networks.",
         "true_category": "Economics",
-        "cluster": 0
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The highly anticipated sci-fi series adaptation completely alienated book fans due to its massive deviations from the source material.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Remote work policies have drastically altered the labor landscape, shifting economic activity away from major city centers.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The government officially imposed severe economic sanctions on several top oligarchs tied directly to the hostile regime.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The streaming giant announced the cancellation of its highly acclaimed fantasy series after just two seasons, citing high production costs.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The massive grassroots advocacy group successfully heavily lobbied the state legislature to codify strict new reproductive rights.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Humanitarian aid organizations are actively demanding massive international intervention to strictly halt the rapidly escalating ethnic violence.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Global supply chain disruptions have finally begun to ease, lowering shipping costs for international freight companies.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The state department issued a massive travel advisory warning citizens of extreme political instability in the region.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The renowned author was awarded the prestigious Nobel Prize in Literature for her powerful exploration of historical trauma.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Independent candidates are polling at historic highs, indicating a massive wave of voter dissatisfaction with the two-party system.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Fashion week was heavily disrupted by climate activists who stormed the runway during a prominent designer's showcase.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The strict new antitrust legislation is massively targeting heavy tech monopolies to aggressively promote fair competition in the digital economy.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "A massive surge in self-published romance novels is actively disrupting the traditional publishing industry's historical gatekeeping.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Many Western allies have chosen to stay silent about recent geopolitical moves, fearing erratic tariffs and blowback to their alliances.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Construction sector spending declined slightly as high borrowing costs delayed commercial development starts.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Central Bank Digital Currency trials were launched to evaluate potential enhancements to domestic payment efficiency.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Virtual production volumes with LED walls have almost completely replaced traditional green screen soundstages in television.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The comprehensive national cybersecurity strategy was officially unveiled, mandating massive new defense protocols for all critical infrastructure.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Customs enforcement officials seized a massive shipment of illegal contraband attempting to cross the heavily fortified southern border.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Capital expenditure plans among heavy machinery manufacturers pointed to modest industrial expansion.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Economic growth in the Eurozone has stagnated due to severe energy shortages and ongoing geopolitical conflicts.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The finance ministry announced tax incentives for foreign direct investment in domestic manufacturing hubs.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The latest payroll report showed that the economy added 250,000 new jobs last month, completely defying recession fears.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Personal savings rates fell below historic averages as households absorbed higher everyday living expenses.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The strict new military conscription laws have sparked massive, highly vocal anti-draft protests across the entire country.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Investment banking revenues plummeted this year due to a massive decline in corporate mergers and acquisitions.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The central bank's monetary tightening policy has successfully cooled down the previously overheated housing market.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The prominent beauty influencer's highly anticipated makeup line sold out globally within three minutes of its digital launch.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The gritty true-crime docuseries has become an unexpected cultural phenomenon, sparking massive online debates and amateur investigations.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The cost of living crisis has worsened in urban areas, with rent and utility prices outpacing annual wage growth.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The prominent film producer was officially ousted from his own production company following a massive boardroom power struggle.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Virtual reality gaming headsets saw a massive spike in holiday sales following the release of a highly anticipated VR blockbuster.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The studio's latest sci-fi epic utilized predictive algorithms to dynamically alter scene lengths based on test audience biometric data.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The strictly enforced public mask mandates during the severe respiratory outbreak sparked massive, heavily contentious civic protests.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Retail sales figures showed modest growth, driven largely by spending on essential grocery and pharmacy goods.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The Broadway revival announced a unique pricing model offering massive discounts to theatergoers under the age of thirty.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The state supreme court officially ruled that the massive, highly restrictive new voter identification laws strictly violated the state constitution.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Supermodels from the 1990s closed the massive runway show in Milan, generating incredible buzz and nostalgia on social media.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Fiscal stimulus checks provided a massive, albeit temporary, boost to consumer spending during the economic downturn.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Venture capital funds focused their investment rounds on artificial intelligence and cybersecurity firms.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Esports organizations are heavily restructuring their rosters after a massive decline in venture capital sponsorship funding.",
         "true_category": "Entertainment",
-        "cluster": 1
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Social media platforms are aggressively rolling out integrated e-commerce features to keep viewers from leaving their apps.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Ticketing platforms are facing intense federal investigations following yet another massive website crash during a stadium tour presale.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The technology-heavy Nasdaq composite reached a new all-time high, fueled by massive investments in artificial intelligence startups.",
         "true_category": "Economics",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Protectionist economic policies are forcing multinational corporations to heavily restructure their global supply chains.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The television academy introduced massive sweeping changes to their voting categories to better accommodate limited streaming series.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The massive national conversation around strictly defunding the police has heavily shifted towards aggressively reforming law enforcement training.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The secretary of defense announced a massive strategic pivot, shifting military assets away from the Middle East and towards the Pacific.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Economists warn that aggressive interest rate hikes could inadvertently push the global economy into a deep recession.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Agricultural exports hit a record high this season due to favorable weather conditions and high international demand.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The massive societal push for strictly equitable healthcare access has heavily pressured politicians to aggressively expand federal insurance programs.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The LGBTQ+ community heavily mobilized to actively defeat a massive wave of highly discriminatory local legislation.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Emerging market equities saw massive capital outflows this week as foreign investors sought safe-haven assets.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A massive coalition of civil rights leaders organized a historic march on the capital to actively demand strict voting rights protections.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Regional environmental agencies are actively enforcing strict new water conservation mandates due to the ongoing historic drought.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The superstar singer's massive surprise album drop was accompanied by a highly stylized, hour-long visual film.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The regional governor declared a state of emergency following the catastrophic failure of the city's primary water treatment facility.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Independent creators are leveraging advanced video generation tools to produce professional-grade indie films on micro-budgets.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Streaming platforms are officially cracking down on password sharing in an aggressive effort to boost their stalling subscriber growth.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Youth unemployment has spiked in recent months, raising concerns about the long-term economic prospects of recent graduates.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Civil liberties advocates are fiercely lobbying against the new digital surveillance act, citing severe violations of personal privacy.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The highly anticipated celebrity memoir sold over a million copies on its first day, largely due to explosive revelations about Hollywood.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Housing prices hit a record high today as limited housing inventory continues to drive massive bidding wars.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The network announced a massive slate of unscripted dating shows to fill the schedule gaps caused by the recent writers' strike.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Economists are closely monitoring the latest manufacturing output data as a leading indicator of overall economic health.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Industrial warehouse space demand moderated as major e-commerce retailers optimized their fulfillment networks.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The superstar athlete and the supermodel announced their amicable split, requesting privacy for their young children.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The massive public trust in federal government institutions has strictly plummeted to incredibly historic lows according to recent polling.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Inventory accumulation slowed down as major retailers focused on clearing existing stock rather than placing new orders.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Government subsidies for agricultural conglomerates were heavily slashed to actively redirect massive funding toward sustainable farming practices.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Nostalgia-driven sequels continue to dominate the global box office, leaving very little room for original cinematic storytelling.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Consumer preferences continued shifting toward experiences such as travel and entertainment over physical goods.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Taiwan passed its defence budget after a record delay, retaining funding for drones.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The strictly mandatory public education curriculum changes have faced massive, heavily organized resistance from fiercely conservative parent organizations.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Public sector unions are actively threatening a massive general strike over the government's highly controversial pension reform policy.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The national bank had to inject billions of dollars in emergency liquidity to stabilize the overnight lending market.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A massive stadium tour was abruptly canceled after the lead singer suffered a severe vocal cord injury during rehearsals.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Corporate workforce restructuring plans shifted focus toward cost control and operational efficiency.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A massive tabloid scandal erupted when leaked audio seemingly caught the beloved television host berating their production crew.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Collective bargaining agreements resulted in notable wage increases for transportation and logistics workers.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Automobile sales moderated as high vehicle prices and elevated auto loan rates impacted affordability.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Urban housing affordability indexes fell to their lowest level in decades, increasing demand for rental housing.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The US and allies are forming partnerships and investment strategies to diversify supplies with countries such as Australia.",
         "true_category": "Politics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Streaming platforms are officially abandoning the binge-release model, returning to traditional weekly episodic releases to sustain buzz.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The indigenous rights movement scored a massive legal victory when the federal court officially recognized their ancestral land claims.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Video game developers are facing massive backlash over the inclusion of controversial pay-to-win mechanics in a premium title.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Institutional investors are increasingly incorporating environmental, social, and governance metrics into asset allocation.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The independent drama completely swept the independent spirit awards, building massive momentum heading into the Oscars.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Natural gas futures plummeted today as weather forecasts predicted an unusually warm winter season across Europe.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A massive bipartisan coalition successfully overrode the governor's veto on the comprehensive environmental protection legislation.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The fierce debate over strictly protecting transgender rights has heavily dominated state-level political campaigns across the massive country.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The state government approved a tax credit scheme for companies that invest in renewable energy research.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The highly coveted Best Picture award was handed to a massive, genre-bending sci-fi film in a completely unprecedented upset.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The incumbent senator officially conceded the highly contested midterm race after mail-in ballots heavily favored the challenger.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Labor organizers successfully formed a massive, highly influential union at the country's largest e-commerce fulfillment center.",
         "true_category": "Politics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The iconic action star announced his retirement from acting, stating that his upcoming film will be his final on-screen performance.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "A massive leak revealed years of developmental footage and source code for the studio's highly secretive upcoming multiplayer game.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The highly anticipated franchise reboot suffered a massive opening weekend flop, signaling severe superhero fatigue among general audiences.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The critically acclaimed limited series became a massive cultural phenomenon, generating millions of weekly social media discussions.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Nigel Farage was re-elected in the Clacton by-election after resigning amid scrutiny over his finances.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Institutional investors are shifting their portfolios away from growth stocks and heavily into value and dividend-paying equities.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A massive copyright infringement lawsuit between two global pop stars over a highly similar melody was settled out of court.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "A declining birth rate and an aging population pose severe long-term threats to the nation's future economic expansion.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Cross-border e-commerce trade grew steadily, driven by rising internet penetration in emerging markets.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Gamers are heavily criticizing the publisher's decision to include aggressive microtransactions in their latest single-player title.",
         "true_category": "Entertainment",
-        "cluster": 1
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "A controversial synthetic celebrity generated entirely by machine learning just secured a major brand endorsement deal.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Massive waves of political refugees are actively fleeing the war-torn nation, severely straining the border resources of neighboring countries.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The commercial property sector is highly overleveraged, creating a potential systemic risk for regional banks.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Corporate tax loopholes are coming under strict international scrutiny to prevent profit shifting across low-tax jurisdictions.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A prominent celebrity chef's highly anticipated flagship restaurant received a massive wave of scathing reviews from top food critics.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The legendary film director announced that his next massive historical epic will be shot entirely on large-format IMAX film cameras.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "A prominent publishing house is facing severe backlash after attempting to heavily censor older works by classic children's authors.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The incumbent prime minister narrowly survived a massive, highly tense parliamentary vote of no confidence following the recent economic scandal.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Theatrical release windows are shrinking drastically, with major blockbuster movies hitting streaming platforms just weeks after premiering.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Commercial real estate refinancing risks grew as billions in property debt neared maturity under high interest rates.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Independent bookstores are seeing a massive resurgence as local communities actively push back against online retail monopolies.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "State legislatures are fiercely debating massive new proposals to strictly regulate the rapid domestic deployment of autonomous vehicles.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The supreme court issued a massive, landmark ruling that strictly upheld the federal government's authority to heavily regulate environmental emissions.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Small businesses are the true engine of economic growth, but they are currently being stifled by high borrowing costs.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The local mayor announced a massive new initiative to combat urban homelessness through subsidized transitional housing programs.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Digital streaming platforms are utilizing emotion-based recommendation algorithms to serve content matched to viewer moods.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "E-commerce conversion rates improved as retailers offered aggressive promotional discounts and free delivery.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Test audiences reportedly walked out of the psychological thriller due to its severely intense and graphic visual sequences.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The metals market saw increased hedging activity from industrial producers seeking to lock in current price levels.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The department of education implemented a massive nationwide initiative to actively forgive federal student loan debt for public servants.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "A massive, highly controversial class-action lawsuit was officially filed against the state for severely neglecting the deeply underfunded public foster care system.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Biofuel production incentives created competition between energy markets and traditional agricultural food supplies.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Lawmakers in Moscow approved a bill that punishes online searches for information that is deemed extremist.",
         "true_category": "Politics",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "A major sports network secured exclusive digital streaming rights for the professional basketball league in a historic multi-billion dollar deal.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The viral comedy troupe successfully crowdfunded their independent feature film entirely through their loyal social media fanbase.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The sweeping domestic infrastructure initiative promises to massively modernize the nation's rapidly aging bridges and electrical grids.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Deposit flight from smaller regional banks stabilized after federal regulators guaranteed all uninsured funds.",
         "true_category": "Economics",
-        "cluster": 0
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Pakistan accused India of illegally suspending the Indus Waters Treaty.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The sovereign credit rating of the nation was downgraded by major agencies due to extreme political instability.",
         "true_category": "Economics",
-        "cluster": 0
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Drought conditions in key growing regions caused agricultural commodity prices to reach multi-year highs.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The actor's dramatic physical transformation for his upcoming biopic role has completely shocked his longtime fans.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The sweeping healthcare reform bill was officially signed into law, aiming to drastically reduce prescription drug costs for seniors.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Public sector wages have been completely frozen as the government attempts to balance its severely inflated budget.",
         "true_category": "Economics",
-        "cluster": 0
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Content creators are increasingly demanding full ownership of their intellectual property and audience data from major platforms.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The prominent editor-in-chief of the iconic fashion magazine announced her retirement after a highly influential three-decade tenure.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The iconic film studio is actively exploring selling its massive back catalog to a private equity firm to pay down massive corporate debt.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Federal regulators are actively drafting massive new rules to strictly govern the rapid domestic development of artificial intelligence.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Interbank lending rates spiked briefly, prompting quick intervention by monetary authorities to restore market liquidity.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Tech startup valuations underwent significant adjustments as investors prioritized cash flow over growth.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Major Hollywood studios are drastically reducing their blockbuster budgets following a string of high-profile box office disappointments.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "A massive controversy erupted after top social media influencers were caught promoting a fraudulent luxury music festival.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Stand-up comedians are increasingly bypassing major streaming services to release their comedy specials directly to YouTube.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The federal reserve chairman heavily defended the massive decision to strictly maintain elevated interest rates to actively combat inflation.",
         "true_category": "Politics",
-        "cluster": 1
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Whistleblowers provided massive amounts of internal documentation exposing severe fraudulent accounting practices within the government agency.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The social security administration heavily warned that its primary trust fund faces massive depletion within the next single decade.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Geopolitical analysts heavily warn that the rapidly escalating border skirmishes could easily trigger a massive, full-scale regional conflict.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The massive national debate over officially lowering the federal voting age to sixteen has gained incredible traction in recent legislative sessions.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Audiobook narrators are actively pushing back against publishing companies seeking massive rights to replicate their voices using AI.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Non-performing loans on bank balance sheets rose slightly due to stress in commercial real estate portfolios.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The strictly enforced federal ban on offshore drilling was heavily praised by a massive coalition of environmental advocacy organizations.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Reality television producers are facing intense legal scrutiny regarding the psychological treatment and payment of their cast members.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "A prominent network canceled its most popular reality dating show after several cast members exposed toxic behind-the-scenes conditions.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Real estate investment trusts (REITs) have seen their valuations plummet due to the massive spike in interest rates.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The legendary composer was awarded a lifetime achievement award for his countless contributions to cinematic film scores.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The discount window saw increased borrowing from financial firms seeking short-term liquidity management.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The international tribunal officially charged the former dictator with massive, strictly documented crimes against humanity.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "A prominent actor utilized his massive acceptance speech platform to fiercely advocate for global climate change legislation.",
         "true_category": "Entertainment",
-        "cluster": 0
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Strict new export controls on advanced semiconductor technology were implemented to actively protect national security interests.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The massive, unprecedented global famine crisis has forced international leaders to strictly prioritize emergency agricultural aid shipments.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "A massive red carpet fashion faux pas instantly became the number one trending topic across all major social media networks.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The government strictly imposed massive corporate windfall taxes on major energy companies following their heavily publicized record profits.",
         "true_category": "Politics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The Brazilian general election is approaching, with incumbent Pres. Luiz In\u00e1cio Lula da Silva seeking a fourth term.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "A massive shortage of printing paper caused severe delays for several highly anticipated holiday book releases.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The massive global climate accord strictly mandates heavy reductions in carbon emissions to aggressively combat rising global temperatures.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Streaming services are aggressively deleting dozens of original movies and shows from their platforms as a highly controversial tax write-off.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Rare earth elements and critical minerals remain at the heart of industrial competitiveness and global power.",
         "true_category": "Politics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Activists are actively demanding massive systemic reforms to the deeply flawed criminal justice and cash bail systems.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Foreign aid packages were heavily delayed as congressional leaders debated the strict human rights conditions attached to the funding.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Municipal bond issuances surged as local governments raised funds for long-term civil infrastructure projects.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Consumer sentiment surveys reflected cautious optimism regarding long-term business conditions.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The highly controversial infrastructure bill narrowly passed the lower house following a grueling marathon voting session.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The controversial domestic surveillance program was officially extended by congress despite massive pushback from civil liberties organizations.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Economic embargoes have completely devastated the rogue nation's economy, leading to massive hyperinflation and civilian unrest.",
         "true_category": "Politics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A highly anticipated posthumous album from the late rap icon sparked massive controversy regarding the artistic integrity of the unfinished tracks.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Interactive live events are blending theater and escape room mechanics to create highly popular immersive entertainment experiences.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Residential real estate sales volume dropped significantly due to severe inventory shortages and elevated mortgage rates.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The massive political dispute over strictly funding renewable energy subsidies has heavily stalled the passage of the federal budget.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The influential lifestyle blogger is being sued for heavily promoting a fraudulent wellness product to millions of online followers.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Actors are negotiating unprecedented contract clauses to protect their digital likenesses from unauthorized digital replication.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The massive grassroots global movement to strictly abolish the international arms trade has gained incredible momentum this year.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Skills mismatches in the labor market left thousands of technical positions unfilled despite active recruitment efforts.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Scalpers utilizing advanced purchasing bots continue to plague the live entertainment industry, driving secondary market prices sky-high.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Free trade zones saw record warehouse leasing activity due to favorable tariff treatment on transshipment goods.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "US President Donald Trump's blend of economic nationalism and assertive foreign policy continues to dominate global headlines.",
         "true_category": "Politics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Household debt balances reached new nominal highs, primarily driven by persistent mortgage and credit card balances.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The massive sovereign debt crisis has strictly forced the struggling nation to heavily accept highly austere bailout conditions from international creditors.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The massive server crash on launch day prevented millions of players from accessing the highly anticipated multiplayer shooter.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Paparazzi photos of the pop singer's heavily guarded private wedding ceremony were leaked to various tabloid magazines.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "A temporary reduction in value-added tax was introduced to stimulate retail sales during the holiday season.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Commercial banks tightened credit standards for commercial and industrial loans following recent financial sector stress.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Environmental activists staged a massive, highly coordinated sit-in at the federal building to actively protest the new oil pipeline.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The prominent music festival was forced to evacuate its massive crowds after a sudden and severe lightning storm hit the venue.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Celebrity book clubs continue to wield massive influence, capable of turning obscure debut novels into instant global bestsellers.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The beloved sitcom is officially returning for a highly anticipated holiday special, reuniting the entire original cast.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The strict deregulation of the massive financial industry heavily contributed to the incredibly rapid expansion of the housing market bubble.",
         "true_category": "Politics",
-        "cluster": 1
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The massive lobbying scandal has completely ruined the political careers of several prominent long-term legislative incumbents.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The prestigious television drama secured a massive twenty million dollar per-episode budget for its highly anticipated final season.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Credit rating agencies downgraded several mid-tier financial institutions, citing elevated funding costs.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The strict government regulation of massive social media platforms aims to heavily combat the rapid spread of dangerous political disinformation.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "British television exports have reached a record high, driven by the massive international popularity of their cozy murder mysteries.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The strictly covert special operations mission successfully neutralized a massive, highly dangerous international terrorist network.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The trade deficit widened to a record high last month as consumer demand for imported electronics surged.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Automated trading algorithms executed high-frequency orders that accelerated the sudden afternoon market sell-off.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The strict privatization of the massive state-owned energy sector has heavily led to fiercely increased utility prices for everyday consumers.",
         "true_category": "Politics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The international trade commission ruled that the massive influx of subsidized foreign steel heavily violated anti-dumping regulations.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Foreign exchange market interventions were deployed by the central bank to stabilize the volatile domestic currency.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Transnational geopolitical alliances are being massively restructured in response to the rapid rise of authoritarian regional regimes.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Free trade agreements between the two neighboring countries have significantly boosted cross-border investments and commerce.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Apprenticeship and vocational training programs received private sector funding to address skilled trade shortages.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The financial regulatory commission has proposed strict new capital requirements for all globally systemic banks.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The Latin music superstar completely sold out his European stadium tour, cementing his status as a massive global pop icon.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Automakers are reporting strong earnings despite ongoing struggles with supply chain bottlenecks and parts shortages.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The classic Shakespearean tragedy was reimagined as a modern political thriller to immense critical and commercial acclaim.",
         "true_category": "Entertainment",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Private debt markets grew rapidly as non-bank lenders filled capital gaps left by traditional commercial banks.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Livestreamers are generating massive revenue through real-time interactive tipping mechanisms and exclusive subscriber badges.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Subsidized housing programs saw expanded funding to mitigate rising homelessness in rapidly growing urban centers.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Core inflation, which excludes volatile food and energy prices, remained stubbornly high despite recent rate hikes.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The government is implementing heavy infrastructure spending packages to artificially boost economic growth metrics.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The gig economy continues to expand rapidly, offering flexible work but providing very little in terms of financial security.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Revised economic figures indicated that consumer spending was stronger than initially reported in the fourth quarter.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Copper futures climbed higher on expectations of increased demand from the expanding electric vehicle market.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A famous daytime talk show host is facing severe allegations of fostering a highly toxic workplace environment for production staff.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The government has heavily increased troop deployments along the strictly contested demilitarized border zone.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The global energy transition is sparking massive new geopolitical rivalries over the strictly controlled supply chains of critical earth minerals.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Late-night television hosts are struggling to maintain viewership as younger audiences completely abandon traditional cable networks.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Global human rights watchdogs released a massive report heavily detailing the severe, strictly enforced censorship of independent journalists.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "State governments are reporting massive budget surpluses thanks to higher-than-expected sales and income tax revenues.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Commercial real estate is facing a massive crisis as office vacancy rates soar in post-pandemic downtown areas.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The groundbreaking new hip-hop musical completely swept the Tony Awards, winning in twelve different categories.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Global leaders convened at the massive international climate summit to actively negotiate binding targets for reducing greenhouse gas emissions.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Major cinema chains are heavily investing in luxury seating and premium dining experiences to attract viewers back to theaters.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Federal oversight committees are actively investigating the massive systemic failures of the newly launched digital taxation portal.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "De-dollarization discussions continued in international forums, though the currency maintained its dominant global reserve status.",
         "true_category": "Economics",
-        "cluster": 0
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Proposals affecting NATO states over disputes on strategic assets such as Greenland are unsettling international alliances.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Massive lines formed outside early voting centers as citizens eagerly sought to heavily participate in the incredibly polarized midterm elections.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Trade tariffs were increased on imported aluminum and steel, sparking fears of a retaliatory global trade war.",
         "true_category": "Economics",
-        "cluster": 0
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Military analysts are heavily warning that the massive accumulation of ballistic missiles strictly violates the international non-proliferation treaty.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Election integrity watchdogs reported massive, highly coordinated disinformation campaigns actively targeting voters on social media platforms.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Animated films are currently outperforming live-action features in international markets, heavily boosting studio profit margins.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The annual music awards show was heavily criticized for massive audio technical difficulties during several key live performances.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The intense South Korean survival drama became the most-watched non-English television series on the streaming platform this year.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The romantic comedy genre is experiencing a massive theatrical revival after years of being relegated exclusively to streaming platforms.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "A prominent comedian was officially banned from hosting the prestigious awards ceremony following a massive unscripted onstage altercation.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The retro-style indie game became a massive overnight success after being heavily featured by popular gaming streamers on Twitch.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The country music singer broke streaming records this week after a massive viral dance challenge popularized her latest single.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Dividend yields on blue-chip stocks have become increasingly attractive to retail investors looking for passive income.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The competitive gaming team completely dominated the world championship, securing a massive multi-million dollar grand prize.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The massive labor strike heavily paralyzed the national supply chain, strictly forcing the government to heavily intervene in the dispute.",
         "true_category": "Politics",
-        "cluster": 1
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The attorney general announced a massive federal civil rights investigation into the deeply troubled municipal police department.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The city council unanimously voted to drastically increase funding for public transportation and pedestrian infrastructure.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Hedge funds increased their short positions on retail stocks following reports of declining consumer spending power.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The medical drama became the longest-running primetime television series in history after being renewed for its twenty-fifth season.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The country was officially suspended from the international trade organization following massive, repeated violations of labor standards.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The massive surge in global authoritarianism is actively threatening the strict preservation of hard-won democratic institutions.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The fierce public backlash over strictly banning controversial literature has sparked a massive national debate on academic freedom.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Live music festivals are experiencing a major decline in ticket sales due to skyrocketing travel and accommodation costs.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "An independent film shot entirely on consumer smartphones was nominated for a massive array of prestigious cinematography awards.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Headlines surrounding persistent core inflation led financial markets to push back expectations for monetary easing.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "New wealth taxes have been proposed as a primary mechanism to fund the expansion of the public healthcare system.",
         "true_category": "Economics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Visual effects artists have officially voted to unionize following years of massive mandatory overtime and heavily compressed deadlines.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "K-pop groups continue their global dominance, selling out massive arenas in North America and Europe within mere minutes.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The sudden collapse of a major regional bank has triggered a massive liquidity crisis in the financial sector.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The presidential debate centered primarily on domestic economic policies and long-term healthcare reforms.",
         "true_category": "Politics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Customs and import duties are expected to generate billions in government revenue over the next fiscal year.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The country officially entered a technical recession after reporting two consecutive quarters of negative GDP growth.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Bilateral negotiations over the disputed maritime borders have stalled completely despite ongoing mediation efforts by neutral third parties.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The sci-fi author's posthumous novel, completed by his son, has received overwhelmingly positive reviews from longtime fans.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The fitness influencer's controversial dietary advice sparked a massive backlash from certified medical professionals online.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Christopher Nolan's highly anticipated historical epic shattered opening weekend box office records globally.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Global export volumes for high-tech components expanded despite broader macroeconomic headwinds.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Companies are heavily investing in automation and robotics to offset the rising costs of human labor and healthcare.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A massive grassroots political movement successfully petitioned to officially place the highly controversial civil rights amendment on the state ballot.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "North Korea accused the US of pushing the world to the brink of nuclear war over upcoming military drills.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The internet broke yesterday when two of the world's most famous actors confirmed their highly rumored romantic relationship.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The student-led anti-war movement organized massive walkouts across hundreds of university campuses to fiercely demand an immediate ceasefire.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The debut fantasy novel instantly topped the bestseller list after going completely viral on the BookTok social media community.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The classical music prodigy completely stunned audiences with a massive, highly unorthodox modern interpretation of a Mozart concerto.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "A massive collaboration between a Western pop star and a prominent K-pop girl group instantly debuted at number one globally.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The foreign minister embarked on a massive multi-country diplomatic tour to strengthen international alliances ahead of the upcoming summit.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "A massive controversy erupted when the prominent film academy snubbed several highly acclaimed female directors in the nominations.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The massive international space race has triggered fierce new geopolitical disputes over the strict legal ownership of lunar resources.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Currency devaluation strategies failed to yield the expected boost in export competitiveness.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Venture capital funding has slowed to a crawl as investors demand clear paths to profitability from tech startups.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Public health officials issued a massive new set of federal guidelines aimed at curbing the rapidly spreading highly contagious virus.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Microfinance institutions expanded lending programs to support underserved micro-entrepreneurs in rural communities.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The strict new emissions standards for commercial vehicles will massively force the heavy transportation industry to rapidly electrify its fleets.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Voter turnout reached a massive historical peak following the highly successful nationwide implementation of universal mail-in balloting.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Credit card debt has reached an all-time high, signaling that consumers are relying on credit to afford daily expenses.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The Federal Reserve announced a surprising 50-basis-point interest rate cut in an effort to stimulate borrowing and investment.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Land developers halted new site acquisitions pending clearer signals on future interest rate trajectories.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "A weakening national currency and falling export volumes have raised severe concerns about the overall global economy.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The international criminal court issued massive, highly unprecedented arrest warrants for top government officials accused of war crimes.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Music labels are actively scouring short-form video platforms to sign the next massive viral sensation to a recording contract.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Stock buyback announcements slowed as boards prioritized debt reduction and capital preservation.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Music industry executives are raising serious concerns about the increasing use of artificial intelligence in audio production.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "New housing starts fell to a three-year low as construction companies struggle with the rising cost of building materials.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Cloud gaming services are reporting record subscription numbers as high-speed internet infrastructure improves globally.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The entertainment industry is facing a massive reckoning over fair compensation for background actors and stand-in performers.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The international esports tournament drew a massive record-breaking online audience of over five million concurrent viewers.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The defense department requested a massive budget increase to actively modernize the military's aging fleet of nuclear submarines.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "A high-ranking intelligence official was officially indicted for leaking highly classified national security documents to foreign journalists.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The massive algorithm changes on the highly popular social media app have strictly prioritized heavily sensationalized political outrage content.",
         "true_category": "Politics",
-        "cluster": 2
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "A massive bidding war for the publishing rights to the political thriller resulted in a record-breaking advance for the first-time author.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The independent coming-of-age drama took home the top prize at the Cannes Film Festival after receiving a ten-minute standing ovation.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Productivity growth accelerated in the service sector as companies adopted digital automation tools.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Andy Burnham became prime minister of the United Kingdom, replacing Keir Starmer.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The department of transportation secured massive federal funding to rapidly expand high-speed rail networks across the entire country.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Pension funds are facing solvency challenges due to lower-than-expected long-term investment returns.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The beloved children's book author announced a massive nationwide library tour to promote literacy and creative writing programs.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The Dow Jones Industrial Average dropped by over 300 points as investors reacted negatively to the latest consumer price index data.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The department of defense officially launched a massive, strictly classified initiative to rapidly counter emerging hypersonic missile threats.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Small business confidence dropped to a three-year low due to rising operational costs and strict new labor regulations.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Several prominent film critics have already declared the psychological thriller a frontrunner for the Best Picture Oscar.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Consumer spending, which accounts for more than two-thirds of the total GDP, has slowed down significantly this year.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The regional economic bloc officially expanded its massive membership, creating the largest free trade zone in the entire world.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The controversial immigration reform act has sparked massive protests outside the capitol building throughout the entire legislative session.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The political action committee was heavily fined for intentionally violating massive campaign finance transparency regulations.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The veteran actor was highly praised for his massive philanthropic efforts toward funding arts education in underfunded public schools.",
         "true_category": "Entertainment",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The newly proposed federal budget includes heavy subsidies for the domestic green energy and semiconductor sectors.",
         "true_category": "Economics",
-        "cluster": 0
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The massive tech giant officially shuttered its ambitious internal game development studio after several costly commercial failures.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Viewership for the annual award show hit a massive record low as younger audiences consume highlights entirely through short-form video.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Broadway ticket sales are currently struggling to recover as tourists heavily cut back on expensive travel and entertainment experiences.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Rising inflation is severely impacting household purchasing power, forcing consumers to cut back on discretionary spending.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Independent music venues are forming national coalitions to negotiate better revenue splits with major touring promoters.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The controversial political memoir broke massive first-day sales records despite receiving overwhelmingly negative reviews from critics.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Fast fashion brands are facing intense global boycotts over severe environmental destruction and unethical labor practices.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Employee turnover rates declined as workers prioritized job security over seeking new career opportunities.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The strict editorial bias of the massive national news network has heavily contributed to the incredibly severe political polarization of its viewers.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Human rights organizations strongly condemned the government's massive, highly aggressive crackdown on peaceful political dissidents.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The strictly localized water crisis heavily exposed the massive, incredibly dangerous deterioration of the city's ancient lead pipe infrastructure.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "South Korea's president expressed a desire for talks with the North to end the Korean War.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "A prominent stage actor suffered a minor injury during a complex stunt, forcing the theater to cancel the weekend performances.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Political economists are heavily debating whether the massive surge in federal deficit spending will strictly trigger runaway inflation.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Strategic corporate investments were increasingly directed toward supply chain resiliency and digital infrastructure.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The national park service announced a massive, multi-year conservation project to actively restore severely degraded wetland habitats.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The newly appointed cabinet minister announced a massive restructuring of the deeply inefficient national healthcare system.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Rental yields for landlords have increased significantly, making residential real estate a highly profitable asset class.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Government administrators are facing massive criticism over the severely botched rollout of the new digital public welfare system.",
         "true_category": "Politics",
-        "cluster": 2
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The massive federal stimulus package was strictly designed to heavily inject liquidity into the rapidly stagnating domestic economy.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "A prominent video game studio was acquired by a massive tech conglomerate in a historic multi-billion dollar buyout.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Wage growth has failed to keep pace with inflation, leading to widespread dissatisfaction among middle-class workers.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The massive desert music festival suffered historically low attendance this year due to soaring inflation and extreme weather warnings.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The supreme court justice is facing massive public pressure to recuse himself from the highly controversial upcoming political ruling.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Labor force participation rates recovered to pre-pandemic levels, driven by strong gains among prime-age workers.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The teenage influencer secured a massive multi-million dollar brand ambassador deal with the world's leading luxury jewelry company.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Credit card delinquency rates among low-income borrowers ticked upward due to depleted savings buffers.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The young adult sci-fi trilogy is being adapted into a massive graphic novel series featuring artwork by a prominent comic illustrator.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Diplomatic relations were completely severed after the ambassador was officially expelled for alleged espionage activities.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Global superpowers are locked in a massive, rapidly escalating geopolitical proxy war over access to critical semiconductor manufacturing.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Free ad-supported streaming television channels are experiencing a massive resurgence among cost-conscious older demographics.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The animation industry is experiencing a massive shift as automated in-betweening software reduces production times by half.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Nearshoring initiatives have prompted manufacturing companies to relocate supply lines closer to primary domestic markets.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Economists argue that the government's current fiscal policy directly contradicts the central bank's monetary tightening efforts.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The legendary hip-hop producer sold his massive publishing catalog for a record-breaking sum to a major private equity firm.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "E-commerce platforms are heavily investing in logistics and warehouse automation to drastically reduce delivery times.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The opposition party has relentlessly weaponized the massive ongoing investigation to heavily attack the president's approval ratings.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The highly anticipated console sequel completely redefined the action genre with its groundbreaking combat mechanics and physics engine.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The controversial hip-hop star unexpectedly dropped a surprise mixtape at midnight, instantly crashing the major streaming platforms.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "Military contractors secured a massive multi-billion dollar government contract to actively develop next-generation autonomous drone swarms.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "The central bank initiated a quantitative tightening program to shrink its massive balance sheet.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The national unemployment rate fell below expectations, indicating that the domestic labor market remains surprisingly tight.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Gold prices surged to a new record high as nervous investors sought traditional safe-haven assets during the market panic.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "Private equity firms have accumulated record levels of dry powder while waiting for market valuations to adjust.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     },
     {
         "document": "The prestigious European fashion house completely shocked the industry by appointing a prominent streetwear designer as their new creative director.",
         "true_category": "Entertainment",
-        "cluster": 2
+        "cluster": 1,
+        "predicted_category": "Entertainment"
     },
     {
         "document": "The county supervisor was officially recalled by voters following a massive public scandal involving the misappropriation of municipal funds.",
         "true_category": "Politics",
-        "cluster": 0
+        "cluster": 0,
+        "predicted_category": "Politics"
     },
     {
         "document": "Portfolio diversification remains a core strategy for risk mitigation during prolonged economic downturns.",
         "true_category": "Economics",
-        "cluster": 1
+        "cluster": 2,
+        "predicted_category": "Economics"
     }
 ]
