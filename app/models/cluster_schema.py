@@ -8,12 +8,12 @@ class ClusterRequest(BaseModel):
     text: str = Field(...,
                       min_length=1,
                       description="The user's statement or sentence to be clustered",
-                      examples=["Spain won FIFA World Cup 2026",
-                                "The U.S. administration expanded global import duties by 10% to 12.5 percent across roughly 60 countries",
-                                " The White House renewed efforts seeking to remove Federal Reserve Governor Lisa Cook.",
-                                "Cristiano Ronaldo and Georgina Rodriguez officially tied the knot after being together for 10 years."
-                                ]
-                      )
+                      examples=[
+                                "Trump says US to reduce military drills with South Korea after it stayed out of Iran war.",
+                                "Movie that went viral for terrible animation becomes China box office hit.",
+                                "International diplomatic updates highlight ongoing discussions regarding trade, regional policies, and security.",
+                                "Taylor Swift and Madonna lead the nominations list for the upcoming MTV Video Music Awards."
+                      ])
 
 # defining the schema for a single clustered document object
 
