@@ -360,7 +360,7 @@ def run_background_crawler():
         # triggering the research output extraction if the link was found
         if publications_url:
             print(f"\n--- Starting Publications Extraction ---")
-            # passing the specific publications URL to your extractor
+            # passing the specific publications URL to the extractor
             research_outputs = extract_research_output(
                 settings.SEED_URL, driver)
             crawled_count += len(research_outputs)
@@ -368,7 +368,7 @@ def run_background_crawler():
         # triggering the profiles extraction if the link was found
         if profiles_url:
             print(f"\n--- Starting Profiles Extraction ---")
-            # passing the specific profiles URL to your extractor
+            # passing the specific profiles URL to the extractor
             profiles = extract_profiles(settings.SEED_URL, driver)
             crawled_count += len(profiles)
 

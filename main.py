@@ -23,7 +23,7 @@ from app.services.nlp_indexer import do_indexing_and_saving
 def scheduled_job():
     print(f"\n{'='*20} running scheduled 90-day crawl at {datetime.now(timezone.utc)} {'='*20}\n")
 
-    # these functions now automatically pull seed_url, user_agent, etc., from your settings
+    # these functions now automatically pull seed_url, user_agent, etc., from the settings
     run_background_crawler()
     do_indexing_and_saving()
     print(f"{20*"="} Crawled, Indexing and Saving completed... {20*"="}")
@@ -33,7 +33,7 @@ def scheduled_job():
 
 def run_scheduler_blocking():
 
-    # automatically it crawls in every 3 months (tested syccessfully in every 15 mins)
+    # automatically it crawls in every 3 months (tested successfully in every 15 mins)
     schedule.every(90).days.do(scheduled_job)
 
     # continuously checking for pending scheduled jobs
